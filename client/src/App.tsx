@@ -1,33 +1,48 @@
-import { Button, Input } from 'antd';
+import { Button, Row, Col } from 'antd';
 import React, { useState } from 'react';
+import GameCard from './GameCard';
 import logo from './logo.svg';
-import './App.css';
-import axios from 'axios';
+import './App.scss';
+
 
 
 
 function App() {
-  const [data, setData] = useState("");
+  const [refresh1, setRefresh1] = useState(true);
+  const [refresh2, setRefresh2] = useState(true);
+  const [refresh3, setRefresh3] = useState(false);
 
-  const getGame = async () => {
-    axios.get('/api/getGame').then((res) => {
-      console.log(res);
-      setData(res.data.name)
-    });
-    
+  function refreshCard1() {
+    console.log("refreshed card 1");
+    setRefresh1(false);
   }
+
+  function refreshCard2() {
+    console.log("refreshed card 2");
+    setRefresh2(false);
+  }
+
+  function refreshCard3() {
+    console.log("refreshed card 3");
+    setRefresh3(false);
+  }
+
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          {data}
-        </p>
-        <Button className="auth-primary-btn" type="primary" onClick={() => getGame()} >
-          get score
-        </Button>
-      </header>
+      <div>
+        <Row>
+          <Col span={10} offset={1}>
+            <GameCard refresh={refresh1} refreshCallback={refreshCard1}/>
+          </Col>
+          <Col span={10} offset={1}>
+            <GameCard refresh={refresh2} refreshCallback={refreshCard2}/>
+          </Col>
+        </Row>
+      </div>
+      
+        
+      
     </div>
   );
 }

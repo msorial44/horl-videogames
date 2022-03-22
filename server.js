@@ -9,8 +9,8 @@ async function getRandoGame() {
       let gameObj = {
         name: game['name'].values[0],
         platform: game['platform'].values[0],
-        rData: game['r-date'].values[0],
-        Score: game['score'].values[0],
+        rdate: game['r-date'].values[0],
+        score: game['score'].values[0],
       };
       return gameObj;
     });

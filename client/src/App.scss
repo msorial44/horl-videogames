@@ -1,0 +1,82 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  background-color: rgb(49, 52, 58);
+  
+}
+
+.game-card {
+  display: flex;
+  justify-content: center;
+  border-radius: 1rem;
+  min-width: 45vw;
+  min-height: 100vh;
+  flex-direction: column;
+  color: whitesmoke;
+}
+
+.game-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.platform {
+  font-size: 1.5rem;
+  color:lightgrey;
+}
+
+.meta-score {
+  opacity: 0;
+  visibility: collapse;
+  font-size: 3.5rem;
+  font-weight: bold;
+  transition: opacity 0.3s;
+  transition-delay: visibility 0.6s;
+
+  &.meta-score-toggled {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.score-subtitle {
+  font-size: 1.5rem;
+  color: lightgrey;
+  font-weight: normal;
+}
+
+.hol-buttons {
+  overflow: hidden;
+  opacity: 0;
+  visibility: collapse;
+  transition: opacity 0.3s;
+  transition-delay: visibility 0.3s;
+  margin-top: 1rem;
+
+  &.hol-buttons-toggled {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.higher-button {
+  background: green 0% 0% no-repeat padding-box;
+	border-radius: 1rem;
+	width: 20%;
+  border: 0px;
+  color: white;
+  padding-bottom: .5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.lower-button {
+  background: red 0% 0% no-repeat padding-box;
+	border-radius: 1rem;
+	width: 20%;
+  border: 0px;
+  color: white;
+  padding-bottom: .5rem;
+  font-size: 1rem;
+}

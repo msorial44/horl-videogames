@@ -13,6 +13,7 @@
         "cheerio": "^1.0.0-rc.10",
         "danfojs-node": "^1.0.4",
         "express": "^4.17.3",
+        "node-sass": "^7.0.1",
         "nodemon": "^2.0.15",
         "pretty": "^2.0.0"
     },
