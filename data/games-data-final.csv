@@ -1,0 +1,877 @@
+,name,platform,r-date,score,user score
+0,The Legend of Zelda: Ocarina of Time,Nintendo64,"November 23, 1998",99,9.1
+1,Grand Theft Auto IV,PlayStation3,"April 29, 2008",98,7.8
+2,Super Mario Galaxy,Wii,"November 12, 2007",97,9.1
+3,Super Mario Galaxy 2,Wii,"May 23, 2010",97,9.1
+4,Red Dead Redemption 2,XboxOne,"October 26, 2018",97,8.1
+5,Grand Theft Auto V,PlayStation3,"September 17, 2013",97,8.3
+6,The Legend of Zelda: Breath of the Wild,Switch,"March 3, 2017",97,8.7
+7,Metroid Prime,GameCube,"November 17, 2002",97,8.9
+8,Grand Theft Auto III,PlayStation2,"October 22, 2001",97,8.4
+9,Super Mario Odyssey,Switch,"October 27, 2017",97,8.9
+10,Halo: Combat Evolved,Xbox,"November 14, 2001",97,8.8
+11,Half-Life 2,PC,"November 16, 2004",96,9.2
+12,BioShock,Xbox360,"August 21, 2007",96,9.0
+13,GoldenEye 007,Nintendo64,"August 25, 1997",96,9.0
+14,Uncharted 2: Among Thieves,PlayStation3,"October 13, 2009",96,8.8
+15,Resident Evil 4,GameCube,"January 11, 2005",96,9.2
+16,The Orange Box,Xbox360,"October 10, 2007",96,9.0
+17,Batman: Arkham City,PlayStation3,"October 18, 2011",96,8.8
+18,Mass Effect 2,Xbox360,"January 26, 2010",96,8.9
+19,Elden Ring,PlayStation5,"February 25, 2022",96,7.9
+20,The Elder Scrolls V: Skyrim,Xbox360,"November 11, 2011",96,8.6
+21,Half-Life,PC,"November 19, 1998",96,9.1
+22,The Legend of Zelda: The Wind Waker,GameCube,"March 24, 2003",96,9.0
+23,Metal Gear Solid 2: Sons of Liberty,PlayStation2,"November 12, 2001",96,8.8
+24,Baldur's Gate II: Shadows of Amn,PC,"September 24, 2000",95,9.1
+25,Grand Theft Auto: San Andreas,PlayStation2,"October 26, 2004",95,9.1
+26,Grand Theft Auto: Vice City,PlayStation2,"October 27, 2002",95,8.8
+27,LittleBigPlanet,PlayStation3,"October 27, 2008",95,6.8
+28,Red Dead Redemption,PlayStation3,"May 18, 2010",95,8.9
+29,Halo 2,Xbox,"November 9, 2004",95,8.7
+30,The Legend of Zelda: A Link to the Past,GameBoyAdvance,"December 3, 2002",95,9.0
+31,The Legend of Zelda: Majora's Mask,Nintendo64,"October 25, 2000",95,9.1
+32,The Last of Us,PlayStation3,"June 14, 2013",95,9.2
+33,The Legend of Zelda: Twilight Princess,Wii,"November 19, 2006",95,9.0
+34,Persona 5 Royal,PlayStation4,"March 31, 2020",95,8.5
+35,The Last of Us Remastered,PlayStation4,"July 29, 2014",95,9.2
+36,Portal 2,PC,"April 18, 2011",95,9.1
+37,BioShock Infinite,PlayStation3,"March 26, 2013",94,8.5
+38,Final Fantasy IX,PlayStation,"November 13, 2000",94,9.0
+39,Call of Duty: Modern Warfare 2,PlayStation3,"November 10, 2009",94,6.7
+40,God of War,PlayStation4,"April 20, 2018",94,9.1
+41,Devil May Cry,PlayStation2,"October 16, 2001",94,8.6
+42,Call of Duty 4: Modern Warfare,PlayStation3,"November 5, 2007",94,8.4
+43,The Legend of Zelda: Ocarina of Time 3D,3DS,"June 19, 2011",94,9.0
+44,Gears of War,Xbox360,"November 7, 2006",94,8.4
+45,The Elder Scrolls IV: Oblivion,Xbox360,"March 20, 2006",94,8.7
+46,Halo 3,Xbox360,"September 25, 2007",94,8.2
+47,Metal Gear Solid,PlayStation,"October 21, 1998",94,9.2
+48,Metal Gear Solid 3: Subsistence,PlayStation2,"March 14, 2006",94,9.1
+49,Metal Gear Solid 4: Guns of the Patriots,PlayStation3,"June 12, 2008",94,8.8
+50,Sid Meier's Civilization IV,PC,"October 25, 2005",94,8.2
+51,The Witcher 3: Wild Hunt,PC,"May 18, 2015",93,9.0
+52,Super Smash Bros. Brawl,Wii,"March 9, 2008",93,8.8
+53,Company of Heroes,PC,"September 13, 2006",93,8.7
+54,The Last of Us Part II,PlayStation4,"June 19, 2020",93,5.7
+55,Hades,Switch,"September 17, 2020",93,9.0
+56,Half-Life: Alyx,PC,"March 23, 2020",93,9.2
+57,Divinity: Original Sin II,PC,"September 14, 2017",93,8.8
+58,Unreal Tournament 2004,PC,"March 16, 2004",93,8.8
+59,God of War II,PlayStation2,"March 13, 2007",93,9.0
+60,Super Mario 3D World,WiiU,"November 22, 2013",93,8.9
+61,Starcraft II: Wings of Liberty,PC,"July 27, 2010",93,8.3
+62,Minecraft,PC,"November 18, 2011",93,8.1
+63,Persona 4 Golden,PlayStationVita,"November 20, 2012",93,8.6
+64,Persona 5,PlayStation4,"April 4, 2017",93,8.7
+65,Fallout 3,Xbox360,"October 28, 2008",93,8.4
+66,Gears of War 2,Xbox360,"November 7, 2008",93,7.9
+67,Mass Effect 3,Xbox360,"March 6, 2012",93,6.0
+68,Metal Gear Solid V: The Phantom Pain,PlayStation4,"September 1, 2015",93,8.2
+69,The Legend of Zelda: Skyward Sword,Wii,"November 20, 2011",93,8.1
+70,Star Wars: Knights of the Old Republic,PC,"November 18, 2003",93,9.0
+71,Uncharted 4: A Thief's End,PlayStation4,"May 10, 2016",93,8.8
+72,Super Smash Bros. Ultimate,Switch,"December 7, 2018",93,8.6
+73,Resident Evil 2,XboxOne,"January 25, 2019",93,8.7
+74,INSIDE,XboxOne,"June 29, 2016",93,8.3
+75,World of Warcraft,PC,"November 23, 2004",93,7.4
+76,Forza Horizon 4,XboxOne,"September 28, 2018",92,8.2
+77,God of War III,PlayStation3,"March 16, 2010",92,8.8
+78,Uncharted 3: Drake's Deception,PlayStation3,"November 1, 2011",92,8.4
+79,Journey,PlayStation4,"July 21, 2015",92,8.3
+80,Bloodborne,PlayStation4,"March 24, 2015",92,8.9
+81,Warcraft III: Reign of Chaos,PC,"July 3, 2002",92,9.2
+82,The Sims,PC,"February 4, 2000",92,8.0
+83,Celeste,Switch,"January 25, 2018",92,8.6
+84,Forza Horizon 5,XboxSeriesX,"November 5, 2021",92,8.3
+85,System Shock 2,PC,"August 11, 1999",92,9.1
+86,Tom Clancy's Splinter Cell: Chaos Theory,PC,"March 28, 2005",92,8.7
+87,Final Fantasy XII,PlayStation2,"October 31, 2006",92,7.6
+88,Super Smash Bros. Melee,GameCube,"December 2, 2001",92,9.1
+89,Rome: Total War,PC,"September 22, 2004",92,9.0
+90,Forza Motorsport 3,Xbox360,"October 27, 2009",92,8.1
+91,Demon's Souls,PlayStation5,"November 11, 2020",92,8.0
+92,Undertale,PC,"September 15, 2015",92,8.4
+93,Batman: Arkham Asylum,Xbox360,"August 25, 2009",92,8.7
+94,Super Mario Sunshine,GameCube,"August 25, 2002",92,8.4
+95,Fire Emblem: Awakening,3DS,"February 4, 2013",92,9.0
+96,Age of Empires II: The Age of Kings,PC,"September 30, 1999",92,9.0
+97,Final Fantasy X,PlayStation2,"December 17, 2001",92,8.9
+98,Unreal Tournament (1999),PC,"November 30, 1999",92,9.0
+99,Final Fantasy XIV: Endwalker,PC,"December 7, 2021",92,9.4
+100,Super Smash Bros. for Wii U,WiiU,"November 21, 2014",92,8.9
+101,Final Fantasy VII,PlayStation,"September 3, 1997",92,8.9
+102,Chrono Trigger,DS,"November 25, 2008",92,9.1
+103,Bayonetta 2,Switch,"February 16, 2018",92,8.5
+104,Xenoblade Chronicles,Wii,"April 6, 2012",92,9.1
+105,Mario Kart 8 Deluxe,Switch,"April 28, 2017",92,8.6
+106,The ICO & Shadow of the Colossus Collection,PlayStation3,"September 27, 2011",92,8.7
+107,The Witcher 3: Wild Hunt - Blood and Wine,PC,"May 30, 2016",92,9.1
+108,Rayman Legends,WiiU,"September 3, 2013",92,8.7
+109,Dark Souls II,Xbox360,"March 11, 2014",91,8.0
+110,Dishonored,PC,"October 8, 2012",91,8.5
+111,Medal of Honor: Allied Assault,PC,"January 20, 2002",91,8.6
+112,LittleBigPlanet 2,PlayStation3,"January 18, 2011",91,8.6
+113,Microsoft Flight Simulator,PC,"August 18, 2020",91,7.1
+114,World of Warcraft: Wrath of the Lich King,PC,"November 13, 2008",91,7.9
+115,Overwatch,PC,"May 23, 2016",91,6.4
+116,Ratchet & Clank: Up Your Arsenal,PlayStation2,"November 3, 2004",91,9.0
+117,Resident Evil (2002),GameCube,"April 30, 2002",91,9.2
+118,Assassin's Creed II,PlayStation3,"November 17, 2009",91,8.7
+119,Metal Gear Solid 3: Snake Eater,PlayStation2,"November 17, 2004",91,9.2
+120,Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,Switch,"September 27, 2019",91,8.6
+121,Sekiro: Shadows Die Twice,XboxOne,"March 22, 2019",91,8.7
+122,Shadow of the Colossus,PlayStation2,"October 18, 2005",91,9.1
+123,Forza Horizon 3,XboxOne,"September 23, 2016",91,8.1
+124,Borderlands 2,PlayStation3,"September 18, 2012",91,8.2
+125,Crysis,PC,"November 13, 2007",91,8.1
+126,God of War: Chains of Olympus,PSP,"March 4, 2008",91,8.6
+127,World of Warcraft: The Burning Crusade,PC,"January 16, 2007",91,6.0
+128,The Longest Journey,PC,"November 16, 2000",91,8.7
+129,Halo: Reach,Xbox360,"September 14, 2010",91,8.4
+130,Mass Effect,Xbox360,"November 20, 2007",91,8.7
+131,Forza Motorsport 4,Xbox360,"October 11, 2011",91,8.3
+132,Crusader Kings III,PC,"September 1, 2020",91,8.3
+133,Battlefield 2,PC,"June 21, 2005",91,8.4
+134,God of War Collection,PlayStation3,"November 17, 2009",91,8.8
+135,Planescape: Torment,PC,"December 14, 1999",91,9.2
+136,Gears of War 3,Xbox360,"September 20, 2011",91,8.1
+137,Killzone 2,PlayStation3,"February 27, 2009",91,8.1
+138,Neverwinter Nights,PC,"June 16, 2002",91,8.2
+139,Dragon Age: Origins,PC,"November 3, 2009",91,8.8
+140,Disco Elysium,PC,"October 15, 2019",91,8.4
+141,The Legend of Zelda: A Link Between Worlds,3DS,"November 22, 2013",91,9.0
+142,Far Cry 3,Xbox360,"December 4, 2012",91,8.6
+143,Mario Kart DS,DS,"November 14, 2005",91,8.7
+144,Call of Duty,PC,"October 29, 2003",91,8.4
+145,Animal Crossing: New Horizons,Switch,"March 20, 2020",90,5.6
+146,The Sims 2,PC,"September 14, 2004",90,8.7
+147,Final Fantasy XIV: Shadowbringers,PC,"July 2, 2019",90,9.2
+148,World of Warcraft: Cataclysm,PC,"December 7, 2010",90,5.7
+149,Bayonetta,Xbox360,"January 5, 2010",90,8.1
+150,Diablo III: Ultimate Evil Edition,PlayStation4,"August 19, 2014",90,7.8
+151,World of Goo,PC,"October 12, 2008",90,8.4
+152,The Legend of Zelda: The Wind Waker HD,WiiU,"September 20, 2013",90,9.0
+153,Portal,PC,"October 10, 2007",90,9.2
+154,The Legend of Zelda: Phantom Hourglass,DS,"October 1, 2007",90,7.9
+155,NieR: Automata - Become as Gods Edition,XboxOne,"June 26, 2018",90,9.1
+156,Jak and Daxter: The Precursor Legacy,PlayStation2,"December 3, 2001",90,8.8
+157,Deus Ex,PC,"June 23, 2000",90,9.2
+158,Half-Life 2: Episode Two,PC,"October 10, 2007",90,9.2
+159,Shin Megami Tensei: Persona 4,PlayStation2,"December 8, 2008",90,7.8
+160,Hollow Knight,Switch,"June 12, 2018",90,9.0
+161,Ori and the Will of the Wisps,XboxOne,"March 11, 2020",90,8.9
+162,LIMBO,Xbox360,"July 21, 2010",90,8.4
+163,Assassin's Creed: Brotherhood,PlayStation3,"November 16, 2010",90,8.3
+164,Dead Space 2,Xbox360,"January 25, 2011",90,8.6
+165,Sid Meier's Civilization V,PC,"September 21, 2010",90,8.0
+166,Super Mario 3D Land,3DS,"November 13, 2011",90,8.4
+167,Deus Ex: Human Revolution,PC,"August 23, 2011",90,8.5
+168,Metroid Prime 3: Corruption,Wii,"August 27, 2007",90,8.8
+169,Monster Hunter: World,PlayStation4,"January 26, 2018",90,7.7
+170,Dota 2,PC,"July 9, 2013",90,6.5
+171,Guild Wars 2,PC,"August 28, 2012",90,8.0
+172,The Witcher 3: Wild Hunt - Hearts of Stone,PlayStation4,"October 12, 2015",90,8.9
+173,Total War: Shogun 2,PC,"March 15, 2011",90,8.4
+174,Empire: Total War,PC,"March 3, 2009",90,7.0
+175,Astro Bot: Rescue Mission,PlayStation4,"October 2, 2018",90,9.0
+176,Final Fantasy VIII,PlayStation,"September 7, 1999",90,8.7
+177,Shin Megami Tensei: Persona 3 Portable,PSP,"July 5, 2010",89,7.6
+178,Xenoblade Chronicles: Definitive Edition,Switch,"May 29, 2020",89,8.8
+179,The Legend of Zelda: Majora's Mask 3D,3DS,"February 13, 2015",89,8.9
+180,Age of Mythology,PC,"November 1, 2002",89,8.9
+181,Dark Souls III,PC,"April 11, 2016",89,8.5
+182,Pillars of Eternity,PC,"March 26, 2015",89,8.3
+183,The Elder Scrolls III: Morrowind,PC,"May 1, 2002",89,8.8
+184,Fable II,Xbox360,"October 21, 2008",89,6.7
+185,Left 4 Dead 2,Xbox360,"November 17, 2009",89,8.5
+186,Dead Cells,PC,"August 7, 2018",89,8.1
+187,Left 4 Dead,Xbox360,"November 17, 2008",89,7.9
+188,Titanfall 2,PlayStation4,"October 28, 2016",89,8.5
+189,Devil May Cry 5,PC,"March 7, 2019",89,8.6
+190,Super Mario 3D World + Bowser's Fury,Switch,"February 12, 2021",89,8.7
+191,Dark Souls,Xbox360,"October 4, 2011",89,8.7
+192,Psychonauts 2,PC,"August 25, 2021",89,7.2
+193,Slay the Spire,PC,"January 23, 2019",89,7.5
+194,Max Payne,PC,"July 23, 2001",89,9.1
+195,Final Fantasy VII Remake Intergrade,PlayStation5,"June 10, 2021",89,8.3
+196,Fire Emblem: Three Houses,Switch,"July 26, 2019",89,8.8
+197,L.A. Noire,PlayStation3,"May 17, 2011",89,7.8
+198,Far Cry,PC,"March 23, 2004",89,8.0
+199,Dead Space,Xbox360,"October 13, 2008",89,8.8
+200,XCOM: Enemy Unknown,PC,"October 8, 2012",89,8.2
+201,Apex Legends,PlayStation4,"February 4, 2019",89,6.9
+202,Shin Megami Tensei: Persona 3 FES,PlayStation2,"April 22, 2008",89,7.7
+203,Metal Gear Solid HD Collection,PlayStation3,"November 8, 2011",89,9.0
+204,Battlefield 3,PC,"October 25, 2011",89,7.6
+205,Dreams,PlayStation4,"February 14, 2020",89,8.7
+206,Dragon Age: Inquisition,PlayStation4,"November 18, 2014",89,7.4
+207,Ratchet & Clank Future: Tools of Destruction,PlayStation3,"October 23, 2007",89,8.8
+208,Tony Hawk's Pro Skater 1 + 2,PlayStation4,"September 4, 2020",89,8.8
+209,New Super Mario Bros.,DS,"May 15, 2006",89,8.5
+210,Silent Hill 2,PlayStation2,"September 24, 2001",89,9.2
+211,Battlefield 1,PlayStation4,"October 18, 2016",89,7.9
+212,Metal Gear Solid: Peace Walker,PSP,"June 8, 2010",89,8.7
+213,Horizon Zero Dawn,PlayStation4,"February 28, 2017",89,8.4
+214,Stardew Valley,PC,"February 26, 2016",89,8.8
+215,Prince of Persia: The Sands of Time,PC,"December 2, 2003",89,8.5
+216,What Remains of Edith Finch,PC,"April 24, 2017",89,8.4
+217,Fallout 4,XboxOne,"November 10, 2015",88,6.6
+218,Mafia,PC,"August 27, 2002",88,9.2
+219,Call of Duty: Modern Warfare 3,Xbox360,"November 8, 2011",88,3.5
+220,Crash Team Racing,PlayStation,"September 30, 1999",88,9.0
+221,Mario Kart 8,WiiU,"May 30, 2014",88,8.8
+222,Super Mario Maker,WiiU,"September 11, 2015",88,8.7
+223,F.E.A.R.,PC,"October 17, 2005",88,8.3
+224,BioShock 2,Xbox360,"February 9, 2010",88,8.2
+225,Kerbal Space Program,PC,"April 27, 2015",88,8.3
+226,NieR: Automata,PlayStation4,"March 7, 2017",88,8.9
+227,Rise of the Tomb Raider: 20 Year Celebration,PlayStation4,"October 11, 2016",88,8.0
+228,Uncharted: Drake's Fortune,PlayStation3,"November 16, 2007",88,7.9
+229,Warcraft III: The Frozen Throne,PC,"July 1, 2003",88,9.2
+230,Assassin's Creed IV: Black Flag,PlayStation3,"October 29, 2013",88,8.2
+231,Battlefield: Bad Company 2,PlayStation3,"March 2, 2010",88,8.5
+232,The Last of Us: Left Behind,PlayStation3,"February 14, 2014",88,4.7
+233,Ratchet & Clank: Rift Apart,PlayStation5,"June 11, 2021",88,8.5
+234,DOOM Eternal,XboxOne,"March 19, 2020",88,9.0
+235,Torchlight II,PC,"September 20, 2012",88,8.5
+236,XCOM 2,PC,"February 5, 2016",88,7.3
+237,Dishonored 2,PlayStation4,"November 10, 2016",88,8.1
+238,Cuphead,PC,"September 29, 2017",88,8.3
+239,Divinity: Original Sin Enhanced Edition,PlayStation4,"October 27, 2015",88,8.0
+240,It Takes Two,PlayStation5,"March 26, 2021",88,9.1
+241,Pokemon Y,3DS,"October 12, 2013",88,7.5
+242,Call of Duty: Black Ops,PlayStation3,"November 9, 2010",88,6.8
+243,Deathloop,PlayStation5,"September 14, 2021",88,6.4
+244,Return to Castle Wolfenstein,PC,"November 19, 2001",88,8.8
+245,Ori and the Blind Forest,XboxOne,"March 11, 2015",88,8.6
+246,The Witcher 2: Assassins of Kings,Xbox360,"April 17, 2012",88,8.3
+247,Hearthstone: Heroes of Warcraft,PC,"March 11, 2014",88,5.7
+248,Grand Theft Auto: Liberty City Stories,PSP,"October 24, 2005",88,7.8
+249,Metroid Dread,Switch,"October 8, 2021",88,8.7
+250,Horizon Forbidden West,PlayStation5,"February 18, 2022",88,8.1
+251,Medieval II: Total War,PC,"November 13, 2006",88,9.0
+252,Super Mario Maker 2,Switch,"June 28, 2019",88,8.5
+253,The Stanley Parable,PC,"October 17, 2013",88,8.1
+254,Monster Hunter Rise,Switch,"March 26, 2021",88,8.9
+255,Sid Meier's Civilization VI,PC,"October 20, 2016",88,7.0
+256,Starcraft II: Legacy of the Void,PC,"November 10, 2015",88,8.3
+257,Diablo III,PC,"May 15, 2012",88,4.1
+258,World of Warcraft: Legion,PC,"August 30, 2016",88,7.6
+259,Pillars of Eternity II: Deadfire,PC,"May 8, 2018",88,7.8
+260,Nioh,PlayStation4,"February 7, 2017",88,8.3
+261,Animal Crossing: New Leaf,3DS,"June 9, 2013",88,8.7
+262,Diablo II,PC,"June 28, 2000",88,8.7
+263,Plants vs. Zombies,PC,"May 5, 2009",87,8.8
+264,Burnout Paradise,PlayStation3,"January 22, 2008",87,7.7
+265,DOOM 3,PC,"August 3, 2004",87,7.7
+266,Subnautica,PC,"January 23, 2018",87,8.6
+267,Halo 4,Xbox360,"November 6, 2012",87,7.1
+268,Final Fantasy XIV: Stormblood,PC,"June 20, 2017",87,9.0
+269,Bloodborne: The Old Hunters,PlayStation4,"November 24, 2015",87,8.8
+270,Hitman 3,PC,"January 20, 2021",87,7.4
+271,Injustice 2,PlayStation4,"May 16, 2017",87,8.0
+272,Ghost of Tsushima: Director's Cut,PlayStation5,"August 20, 2021",87,7.1
+273,The Witness,PlayStation4,"January 26, 2016",87,7.3
+274,DOOM,XboxOne,"May 13, 2016",87,8.5
+275,Final Fantasy VII Remake,PlayStation4,"April 10, 2020",87,8.1
+276,Pokemon White Version,DS,"March 6, 2011",87,7.7
+277,Pokemon X,3DS,"October 12, 2013",87,7.5
+278,Burnout Paradise: The Ultimate Box,PC,"February 5, 2009",87,7.6
+279,Astral Chain,Switch,"August 30, 2019",87,8.9
+280,GRID (2008),PC,"June 3, 2008",87,7.9
+281,Gran Turismo 7,PlayStation5,"March 4, 2022",87,1.9
+282,Uncharted: Legacy of Thieves Collection,PlayStation5,"January 28, 2022",87,8.8
+283,Max Payne 3,PlayStation3,"May 15, 2012",87,7.9
+284,Pokemon Sun,3DS,"November 18, 2016",87,7.6
+285,Heavy Rain,PlayStation3,"February 23, 2010",87,7.8
+286,Diablo II: Lord of Destruction,PC,"June 27, 2001",87,9.0
+287,Half-Life 2: Episode One,PC,"June 1, 2006",87,8.7
+288,Devil May Cry 3: Special Edition,PlayStation2,"January 24, 2006",87,9.1
+289,The Swapper,PC,"May 30, 2013",87,8.6
+290,Pokemon SoulSilver Version,DS,"March 14, 2010",87,9.2
+291,Dragon Ball FighterZ,PlayStation4,"January 26, 2018",87,8.0
+292,The Legend of Zelda: Link's Awakening,Switch,"September 20, 2019",87,8.4
+293,Hitman 2: Silent Assassin,PC,"October 1, 2002",87,8.2
+294,Assassin's Creed Odyssey,XboxOne,"October 2, 2018",87,6.3
+295,Batman: Arkham Knight,PlayStation4,"June 23, 2015",87,7.9
+296,Marvel's Spider-Man,PlayStation4,"September 7, 2018",87,8.7
+297,Pokemon Moon,3DS,"November 18, 2016",87,7.6
+298,New Super Mario Bros. Wii,Wii,"November 15, 2009",87,8.3
+299,Paper Mario: The Thousand-Year Door,GameCube,"October 11, 2004",87,9.1
+300,Tomb Raider,PlayStation3,"March 5, 2013",87,8.3
+301,Forza Motorsport 6,XboxOne,"September 15, 2015",87,7.7
+302,Donkey Kong Country Returns,Wii,"November 21, 2010",87,8.6
+303,Bully,PlayStation2,"October 17, 2006",87,8.8
+304,Fire Emblem Fates: Conquest,3DS,"February 19, 2016",87,8.0
+305,FIFA 14,PlayStation4,"November 12, 2013",87,6.3
+306,Pokemon HeartGold Version,DS,"March 14, 2010",87,9.1
+307,Diablo III: Reaper of Souls,PC,"March 25, 2014",87,6.6
+308,Pro Evolution Soccer 2016,PlayStation4,"September 15, 2015",87,7.2
+309,Pokemon Black Version,DS,"March 6, 2011",87,7.8
+310,Mass Effect Legendary Edition,PlayStation4,"May 14, 2021",87,6.1
+311,Wolfenstein II: The New Colossus,PlayStation4,"October 27, 2017",87,7.3
+312,Divinity: Original Sin,PC,"January 17, 2014",87,8.7
+313,Destiny 2,XboxOne,"September 6, 2017",87,4.4
+314,Psychonauts,PC,"April 19, 2005",87,8.8
+315,Dark Souls II: Scholar of the First Sin,PlayStation4,"April 7, 2015",87,7.8
+316,Resistance 2,PlayStation3,"November 4, 2008",87,6.2
+317,Europa Universalis IV,PC,"August 13, 2013",87,8.7
+318,Halo Infinite,XboxSeriesX,"December 8, 2021",87,8.1
+319,Pikmin 3,WiiU,"August 4, 2013",87,8.8
+320,Total War: WARHAMMER II,PC,"September 28, 2017",87,7.9
+321,Tales of Arise,PlayStation5,"September 10, 2021",87,8.8
+322,World of Warcraft: Warlords of Draenor,PC,"November 13, 2014",87,4.4
+323,Kingdom Hearts II,PlayStation2,"March 28, 2006",87,9.0
+324,Ratchet & Clank Future: A Crack in Time,PlayStation3,"October 27, 2009",87,8.8
+325,Gone Home,PC,"August 15, 2013",86,5.4
+326,Uncharted: The Nathan Drake Collection,PlayStation4,"October 9, 2015",86,8.6
+327,The Witcher: Enhanced Edition,PC,"September 16, 2008",86,8.3
+328,Call of Duty 2,PC,"October 25, 2005",86,8.5
+329,Resistance: Fall of Man,PlayStation3,"November 14, 2006",86,8.1
+330,Rise of the Tomb Raider,PC,"January 28, 2016",86,7.9
+331,Total War: WARHAMMER,PC,"May 24, 2016",86,7.4
+332,Donkey Kong Country: Tropical Freeze,Switch,"May 4, 2018",86,8.6
+333,Resident Evil 5,PC,"September 15, 2009",86,7.2
+334,Saints Row IV,PC,"August 19, 2013",86,7.4
+335,The Sims 3,PC,"June 2, 2009",86,7.8
+336,Death Stranding,PC,"July 14, 2020",86,7.8
+337,Titanfall,XboxOne,"March 11, 2014",86,6.7
+338,Tribes: Ascend,PC,"April 12, 2012",86,7.8
+339,Gears of War 4,PC,"October 11, 2016",86,6.8
+340,God of War: Ghost of Sparta,PSP,"November 2, 2010",86,8.8
+341,Starcraft II: Heart of the Swarm,PC,"March 12, 2013",86,8.0
+342,Crysis 2,PC,"March 22, 2011",86,7.0
+343,Final Fantasy XII: The Zodiac Age,PlayStation4,"July 11, 2017",86,8.4
+344,Max Payne 2: The Fall of Max Payne,PC,"October 14, 2003",86,8.9
+345,DmC: Devil May Cry,Xbox360,"January 15, 2013",86,5.4
+346,DiRT 3,PC,"May 23, 2011",86,7.0
+347,Sonic Mania,PlayStation4,"August 15, 2017",86,8.0
+348,Desperados III,PC,"June 16, 2020",86,8.2
+349,Resident Evil 7: biohazard,PlayStation4,"January 24, 2017",86,8.0
+350,Dead Space (2008),PC,"October 20, 2008",86,8.2
+351,PlayerUnknown's Battlegrounds,PC,"December 20, 2017",86,4.7
+352,Forza Horizon 2,XboxOne,"September 30, 2014",86,8.3
+353,XCOM: Enemy Within,PC,"November 11, 2013",86,8.1
+354,Luigi's Mansion 3,Switch,"October 31, 2019",86,8.5
+355,Final Fantasy XIV Online: A Realm Reborn,PlayStation4,"April 14, 2014",86,7.4
+356,Luigi's Mansion: Dark Moon,3DS,"March 24, 2013",86,8.4
+357,Dragon Quest XI: Echoes of an Elusive Age,PlayStation4,"September 4, 2018",86,8.6
+358,Destiny: The Taken King,PlayStation4,"September 15, 2015",86,6.2
+359,Heroes of the Storm,PC,"June 2, 2015",86,6.3
+360,Path of Exile,PC,"January 25, 2013",86,7.9
+361,Returnal,PlayStation5,"April 30, 2021",86,7.3
+362,Forza Motorsport 7,XboxOne,"September 29, 2017",86,6.4
+363,Cyberpunk 2077,PC,"December 10, 2020",86,7.0
+364,Rocket League,PC,"July 5, 2015",86,7.7
+365,The Legend of Zelda: Twilight Princess HD,WiiU,"March 4, 2016",86,8.6
+366,Tom Clancy's Splinter Cell: Conviction,Xbox360,"April 13, 2010",85,7.7
+367,The Talos Principle,PC,"December 11, 2014",85,8.6
+368,Cities: Skylines,PC,"March 10, 2015",85,8.8
+369,Metroid: Samus Returns,3DS,"September 15, 2017",85,8.7
+370,Ni no Kuni: Wrath of the White Witch,PlayStation3,"January 22, 2013",85,8.7
+371,The Outer Worlds,PlayStation4,"October 25, 2019",85,8.0
+372,Bravely Default,3DS,"February 7, 2014",85,8.4
+373,"Warhammer 40,000: Dawn of War II",PC,"February 18, 2009",85,8.1
+374,Final Fantasy X-2,PlayStation2,"November 18, 2003",85,7.5
+375,Command & Conquer 3: Tiberium Wars,PC,"March 26, 2007",85,8.1
+376,Life is Strange,PlayStation4,"October 20, 2015",85,8.6
+377,Hotline Miami,PC,"October 23, 2012",85,8.5
+378,Final Fantasy XV: Windows Edition,PC,"March 6, 2018",85,8.0
+379,Kingdom Hearts,PlayStation2,"September 16, 2002",85,8.8
+380,Marvel's Spider-Man: Miles Morales,PlayStation5,"November 12, 2020",85,7.6
+381,Amnesia: The Dark Descent,PC,"September 8, 2010",85,8.6
+382,Forza Horizon,Xbox360,"October 23, 2012",85,8.5
+383,Assassin's Creed Origins,XboxOne,"October 27, 2017",85,7.7
+384,Control,PC,"August 27, 2019",85,7.3
+385,South Park: The Stick of Truth,PC,"March 4, 2014",85,8.6
+386,Assassin's Creed III,PlayStation3,"October 30, 2012",85,6.9
+387,Dark Souls: Prepare to Die Edition,PC,"August 24, 2012",85,7.8
+388,Super Smash Bros. for Nintendo 3DS,3DS,"October 3, 2014",85,8.5
+389,Call of Duty: World at War,PlayStation3,"November 10, 2008",85,7.7
+390,Pro Evolution Soccer 2017,PlayStation4,"September 13, 2016",85,7.3
+391,Shovel Knight,PC,"June 26, 2014",85,8.0
+392,Machinarium,PC,"October 16, 2009",85,8.7
+393,Nioh 2,PlayStation4,"March 13, 2020",85,7.9
+394,The Witcher 3: Wild Hunt - Complete Edition,Switch,"October 15, 2019",85,8.3
+395,The Wolf Among Us: Episode 1 - Faith,PC,"October 11, 2013",85,8.9
+396,Super Paper Mario,Wii,"April 9, 2007",85,8.0
+397,Far Cry 2,PC,"October 21, 2008",85,6.0
+398,AudioSurf,PC,"February 15, 2008",85,8.7
+399,Yakuza 0,PlayStation4,"January 24, 2017",85,8.5
+400,Dead Rising,Xbox360,"August 8, 2006",85,7.7
+401,Star Wars: Knights of the Old Republic II - The Sith Lords,PC,"February 8, 2005",85,8.5
+402,Mario Kart 7,3DS,"December 4, 2011",85,8.2
+403,Halo: The Master Chief Collection,XboxOne,"November 11, 2014",85,7.9
+404,Rogue Legacy,PC,"June 27, 2013",85,7.9
+405,Castlevania: Lords of Shadow,PlayStation3,"October 5, 2010",85,8.1
+406,Pokemon Diamond Version,DS,"April 22, 2007",85,8.3
+407,Sid Meier's Civilization V: Brave New World,PC,"July 8, 2013",85,8.6
+408,Ratchet & Clank,PlayStation4,"April 12, 2016",85,8.4
+409,Thronebreaker: The Witcher Tales,PC,"November 9, 2018",85,7.9
+410,Far Cry 4,PlayStation4,"November 18, 2014",85,7.7
+411,Death Stranding: Director's Cut,PlayStation5,"September 24, 2021",85,7.0
+412,Silent Hill 3,PlayStation2,"August 6, 2003",85,8.6
+413,Outer Wilds,PC,"May 30, 2019",85,8.4
+414,Tomb Raider: Definitive Edition,PlayStation4,"January 28, 2014",85,8.1
+415,FIFA 17,PlayStation4,"September 27, 2016",85,5.0
+416,inFamous,PlayStation3,"May 26, 2009",85,8.3
+417,"Papers, Please",PC,"August 8, 2013",85,8.5
+418,Star Wars: The Old Republic,PC,"December 20, 2011",85,6.0
+419,Mario + Rabbids: Kingdom Battle,Switch,"August 29, 2017",85,8.4
+420,Crash Bandicoot 4: It's About Time,PlayStation4,"October 2, 2020",85,8.1
+421,Saints Row: The Third,PC,"November 14, 2011",84,8.1
+422,Ni no Kuni II: Revenant Kingdom,PlayStation4,"March 23, 2018",84,7.5
+423,Fallout: New Vegas,PC,"October 19, 2010",84,8.8
+424,Kingdom Hearts HD I.5 + II.5 Remix,PlayStation4,"March 28, 2017",84,8.9
+425,Middle-earth: Shadow of Mordor,PlayStation4,"September 30, 2014",84,8.0
+426,Pokemon Ultra Sun,3DS,"November 17, 2017",84,7.7
+427,Shin Megami Tensei V,Switch,"November 12, 2021",84,7.5
+428,Horizon Zero Dawn: Complete Edition,PC,"August 7, 2020",84,6.6
+429,PlanetSide 2,PC,"November 20, 2012",84,7.0
+430,Gears 5,XboxOne,"September 6, 2019",84,8.2
+431,Dark Souls Remastered,PlayStation4,"May 25, 2018",84,8.0
+432,Command & Conquer: Red Alert 2,PC,"October 21, 2000",84,8.9
+433,Halo 5: Guardians,XboxOne,"October 27, 2015",84,6.4
+434,Assassin's Creed Valhalla,XboxSeriesX,"November 10, 2020",84,7.8
+435,Darkest Dungeon,PC,"January 19, 2016",84,7.9
+436,Spore,PC,"September 7, 2008",84,5.7
+437,Deus Ex: Mankind Divided,PlayStation4,"August 23, 2016",84,7.6
+438,Need for Speed: Most Wanted - A Criterion Game,PlayStation3,"October 30, 2012",84,5.9
+439,Killzone 3,PlayStation3,"February 22, 2011",84,8.0
+440,Frostpunk,PC,"April 24, 2018",84,8.4
+441,Just Cause 2,PC,"March 23, 2010",84,7.6
+442,Mortal Kombat,PlayStation3,"April 19, 2011",84,8.5
+443,Crysis Warhead,PC,"September 16, 2008",84,7.9
+444,Devil May Cry 4,PlayStation3,"February 5, 2008",84,8.4
+445,Uncharted: The Lost Legacy,PlayStation4,"August 22, 2017",84,8.0
+446,Resident Evil Village,PlayStation5,"May 7, 2021",84,8.5
+447,Black Mesa,PC,"September 14, 2012",84,8.9
+448,FTL: Faster Than Light,PC,"September 14, 2012",84,8.4
+449,Xenoblade Chronicles X,WiiU,"December 4, 2015",84,9.1
+450,Resogun,PlayStation4,"November 15, 2013",84,7.7
+451,SOMA,PC,"September 21, 2015",84,8.4
+452,Tom Clancy's The Division 2,PC,"March 15, 2019",84,4.6
+453,Gran Turismo 5,PlayStation3,"November 24, 2010",84,7.8
+454,Pokemon Ultra Moon,3DS,"November 17, 2017",84,7.6
+455,Borderlands,Xbox360,"October 20, 2009",84,8.1
+456,The Lord of the Rings: The Battle for Middle-Earth II,PC,"March 2, 2006",84,7.8
+457,The Binding of Isaac,PC,"September 28, 2011",84,8.3
+458,New Super Mario Bros. U,WiiU,"November 18, 2012",84,8.0
+459,Trine 2,PC,"December 7, 2011",84,8.3
+460,Rift (2011),PC,"March 1, 2011",84,7.3
+461,BioShock: The Collection,PlayStation4,"September 13, 2016",84,8.5
+462,Resident Evil 3,XboxOne,"April 3, 2020",84,6.3
+463,FIFA 18,PlayStation4,"September 26, 2017",84,3.5
+464,Vanquish,Xbox360,"October 19, 2010",84,9.2
+465,Genshin Impact,PC,"September 28, 2020",84,4.1
+466,Final Fantasy X / X-2 HD Remaster,PlayStation4,"May 12, 2015",84,8.4
+467,DmC: Devil May Cry Definitive Edition,PlayStation4,"March 10, 2015",83,7.5
+468,Grim Dawn,PC,"February 25, 2016",83,8.4
+469,Call of Duty: Black Ops 4,PlayStation4,"October 12, 2018",83,4.0
+470,Ghost of Tsushima,PlayStation4,"July 17, 2020",83,9.1
+471,Kid Icarus: Uprising,3DS,"March 23, 2012",83,8.7
+472,Anno 2070,PC,"November 17, 2011",83,7.1
+473,Astro's Playroom,PlayStation5,"November 12, 2020",83,9.3
+474,Darksiders II,Xbox360,"August 14, 2012",83,8.2
+475,Shin Megami Tensei IV,3DS,"July 16, 2013",83,7.1
+476,Hellblade: Senua's Sacrifice,PC,"August 7, 2017",83,8.1
+477,Halo 3: ODST,Xbox360,"September 22, 2009",83,7.6
+478,Ghost Trick: Phantom Detective,DS,"January 11, 2011",83,9.7
+479,Crash Team Racing: Nitro-Fueled,PlayStation4,"June 21, 2019",83,6.9
+480,Orcs Must Die!,PC,"October 11, 2011",83,8.1
+481,Kingdom Hearts III,PlayStation4,"January 29, 2019",83,8.0
+482,Fable: The Lost Chapters,PC,"September 20, 2005",83,8.6
+483,Call of Duty: Black Ops II,Xbox360,"November 13, 2012",83,5.3
+484,Resident Evil HD Remaster,PlayStation4,"January 20, 2015",83,8.5
+485,Unreal Tournament III,PC,"November 19, 2007",83,8.0
+486,This War of Mine,PC,"November 14, 2014",83,8.3
+487,Call of Duty: Modern Warfare Remastered,PlayStation4,"November 4, 2016",83,7.2
+488,Final Fantasy XIII,PlayStation3,"March 9, 2010",83,7.2
+489,Transistor,PlayStation4,"May 20, 2014",83,8.2
+490,Splatoon 2,Switch,"July 21, 2017",83,8.4
+491,Terraria,PC,"May 16, 2011",83,8.7
+492,Resistance 3,PlayStation3,"September 6, 2011",83,7.8
+493,Orcs Must Die! 2,PC,"July 30, 2012",83,7.9
+494,Metro Redux,PlayStation4,"August 26, 2014",83,8.1
+495,Octopath Traveler,Switch,"July 12, 2018",83,8.5
+496,Metal Gear Rising: Revengeance,PC,"January 9, 2014",83,8.1
+497,Crisis Core: Final Fantasy VII,PSP,"March 24, 2008",83,8.6
+498,Alan Wake,PC,"February 16, 2012",83,8.0
+499,inFamous 2,PlayStation3,"June 7, 2011",83,8.6
+500,Call of Duty: Advanced Warfare,PlayStation4,"November 3, 2014",83,5.8
+501,Torchlight,PC,"October 27, 2009",83,7.9
+502,FIFA 19,PlayStation4,"September 25, 2018",83,2.1
+503,Mortal Kombat X,PlayStation4,"April 14, 2015",83,7.8
+504,Katana ZERO,PC,"April 18, 2019",83,8.9
+505,Xenoblade Chronicles 2,Switch,"December 1, 2017",83,8.6
+506,World of Warcraft: Shadowlands,PC,"November 23, 2020",83,3.3
+507,Gravity Rush,PlayStationVita,"June 12, 2012",83,8.6
+508,Pokemon Omega Ruby,3DS,"November 21, 2014",83,7.5
+509,Horizon Zero Dawn: The Frozen Wilds,PlayStation4,"November 7, 2017",83,7.9
+510,Sleeping Dogs,PlayStation3,"August 14, 2012",83,7.7
+511,Hitman: Absolution,PlayStation3,"November 20, 2012",83,7.5
+512,L.A. Noire: The Complete Edition,PC,"November 8, 2011",83,8.0
+513,Pokemon Legends: Arceus,Switch,"January 28, 2022",83,8.3
+514,Hearts of Iron IV,PC,"June 6, 2016",83,7.6
+515,Prince of Persia: Warrior Within,PC,"November 30, 2004",83,8.6
+516,Counter-Strike: Global Offensive,PC,"August 21, 2012",83,7.3
+517,Pokemon Platinum Version,DS,"March 22, 2009",83,8.9
+518,Gears of War: Ultimate Edition,XboxOne,"August 25, 2015",82,7.7
+519,Watch Dogs 2,PlayStation4,"November 15, 2016",82,7.6
+520,FIFA 16,PlayStation4,"September 22, 2015",82,4.4
+521,Pokemon Alpha Sapphire,3DS,"November 21, 2014",82,7.5
+522,Minecraft: Xbox 360 Edition,Xbox360,"May 9, 2012",82,7.4
+523,Shadow of the Tomb Raider,XboxOne,"September 12, 2018",82,7.3
+524,Resident Evil: Revelations,3DS,"February 7, 2012",82,8.5
+525,SUPERHOT,PC,"February 25, 2016",82,7.6
+526,Borderlands: The Handsome Collection,PlayStation4,"March 24, 2015",82,7.9
+527,Antichamber,PC,"January 31, 2013",82,8.3
+528,Neverwinter Nights 2,PC,"October 31, 2006",82,6.6
+529,Dragon Age: Origins - Awakening,PC,"March 16, 2010",82,7.9
+530,Metro Exodus,PC,"February 15, 2019",82,7.2
+531,Need for Speed: Underground,PC,"November 17, 2003",82,8.4
+532,Super Mario 3D All-Stars,Switch,"September 18, 2020",82,6.4
+533,Dragon Age II,PC,"March 8, 2011",82,4.6
+534,Hitman 2,PlayStation4,"November 9, 2018",82,8.3
+535,Endless Legend,PC,"April 24, 2014",82,8.0
+536,S.T.A.L.K.E.R.: Shadow of Chernobyl,PC,"March 20, 2007",82,8.4
+537,Far Cry 5,XboxOne,"March 27, 2018",82,6.9
+538,The Evil Within 2,XboxOne,"October 13, 2017",82,8.9
+539,Mortal Kombat 11,PlayStation4,"April 23, 2019",82,3.7
+540,Spyro Reignited Trilogy,PlayStation4,"November 13, 2018",82,8.2
+541,Need for Speed: Underground 2,PC,"November 9, 2004",82,8.6
+542,Legend of Grimrock,PC,"April 11, 2012",82,8.1
+543,eFootball PES 2020,PlayStation4,"September 10, 2019",82,7.6
+544,Bulletstorm,PC,"February 21, 2011",82,7.7
+545,Mario Kart Wii,Wii,"April 27, 2008",82,8.4
+546,Crusader Kings II,PC,"February 14, 2012",82,8.7
+547,Halo: Combat Evolved Anniversary,Xbox360,"November 15, 2011",82,8.1
+548,Child of Light,PlayStation4,"April 29, 2014",82,8.0
+549,Kingdom Hearts: Birth by Sleep,PSP,"September 7, 2010",82,8.6
+550,The Last Guardian,PlayStation4,"December 6, 2016",82,7.9
+551,World of Warcraft: Mists of Pandaria,PC,"September 25, 2012",82,5.8
+552,The Vanishing of Ethan Carter,PC,"September 25, 2014",82,8.0
+553,Command & Conquer: Red Alert 3,PC,"October 28, 2008",82,6.9
+554,The Walking Dead: Episode 1 - A New Day,PC,"April 24, 2012",82,8.3
+555,Halo Wars,Xbox360,"March 3, 2009",82,7.5
+556,Prey,PC,"May 5, 2017",82,8.2
+557,Tekken 7,PlayStation4,"June 2, 2017",82,6.4
+558,Metro: Last Light,PC,"May 13, 2013",82,8.5
+559,FIFA 15,PlayStation4,"September 23, 2014",82,5.7
+560,Hitman: Blood Money,PC,"May 30, 2006",82,8.8
+561,WildStar,PC,"June 3, 2014",82,7.5
+562,A Plague Tale: Innocence,PlayStation4,"May 14, 2019",81,8.4
+563,The Elder Scrolls V: Skyrim Special Edition,PlayStation4,"October 28, 2016",81,7.6
+564,Battlefield 4,PC,"October 19, 2013",81,6.2
+565,To the Moon,PC,"November 1, 2011",81,8.9
+566,Splatoon,WiiU,"May 29, 2015",81,8.7
+567,Wolfenstein: The New Order,PC,"May 19, 2014",81,8.2
+568,Star Wars Jedi: Fallen Order,XboxOne,"November 15, 2019",81,8.1
+569,Alien: Isolation,PC,"October 6, 2014",81,8.5
+570,The Witcher,PC,"October 30, 2007",81,8.6
+571,Age of Empires III,PC,"October 18, 2005",81,7.7
+572,Castlevania: Lords of Shadow - Ultimate Edition,PC,"August 27, 2013",81,7.5
+573,Assassin's Creed,Xbox360,"November 13, 2007",81,7.6
+574,Metro 2033,PC,"March 16, 2010",81,8.0
+575,Kingdoms of Amalur: Reckoning,PC,"February 7, 2012",81,6.7
+576,Sunset Overdrive,XboxOne,"October 28, 2014",81,7.8
+577,RAGE,Xbox360,"October 4, 2011",81,6.7
+578,Napoleon: Total War,PC,"February 23, 2010",81,7.9
+579,Firewatch,PC,"February 9, 2016",81,7.1
+580,Little Nightmares,PC,"April 28, 2017",81,8.1
+581,Red Orchestra: Ostfront 41-45,PC,"March 14, 2006",81,8.6
+582,Gran Turismo 6,PlayStation3,"December 6, 2013",81,8.0
+583,Borderlands 3,PC,"September 13, 2019",81,5.4
+584,Final Fantasy XV,PlayStation4,"November 29, 2016",81,7.6
+585,Dragon's Dogma: Dark Arisen,PC,"January 15, 2016",81,8.1
+586,Guild Wars 2: Heart of Thorns,PC,"October 23, 2015",81,7.3
+587,Far Cry 3: Blood Dragon,PC,"May 1, 2013",81,8.1
+588,Sid Meier's Civilization: Beyond Earth,PC,"October 23, 2014",81,5.5
+589,Wasteland 2,PC,"September 18, 2014",81,7.2
+590,Call of Duty: Modern Warfare,PC,"October 25, 2019",81,2.6
+591,Mirror's Edge,PC,"January 12, 2009",81,8.0
+592,Battlefield V,PC,"November 15, 2018",81,3.0
+593,Call of Duty: Black Ops III,PlayStation4,"November 6, 2015",81,5.1
+594,Fall Guys: Ultimate Knockout,PlayStation4,"August 4, 2020",81,7.0
+595,God of War III Remastered,PlayStation4,"July 14, 2015",81,8.3
+596,Kena: Bridge of Spirits,PlayStation5,"September 21, 2021",81,8.5
+597,Age of Conan: Hyborian Adventures,PC,"May 20, 2008",80,7.3
+598,Watch Dogs,PlayStation4,"May 27, 2014",80,6.5
+599,Pokemon Black Version 2,DS,"October 7, 2012",80,8.0
+600,Metal Gear Solid V: Ground Zeroes,PC,"December 18, 2014",80,7.6
+601,Tyranny,PC,"November 10, 2016",80,7.8
+602,Assassin's Creed: Revelations,Xbox360,"November 15, 2011",80,7.3
+603,NBA 2K18,PlayStation4,"September 15, 2017",80,1.8
+604,The Banner Saga,PC,"January 14, 2014",80,8.0
+605,Dead Island,PC,"September 5, 2011",80,6.9
+606,Uncharted: Golden Abyss,PlayStationVita,"February 15, 2012",80,7.5
+607,Yakuza Kiwami,PlayStation4,"August 29, 2017",80,7.9
+608,Outlast,PC,"September 4, 2013",80,8.3
+609,Marvel's Guardians of the Galaxy,PlayStation5,"October 26, 2021",80,8.6
+610,Injustice: Gods Among Us - Ultimate Edition,PlayStation4,"November 12, 2013",80,7.2
+611,Elite: Dangerous,PC,"December 16, 2014",80,6.7
+612,God of War: Ascension,PlayStation3,"March 12, 2013",80,7.7
+613,Pokemon Shield,Switch,"November 15, 2019",80,4.6
+614,Trine,PC,"July 2, 2009",80,8.1
+615,Company of Heroes 2,PC,"June 25, 2013",80,2.2
+616,Natural Selection 2,PC,"October 30, 2012",80,8.5
+617,Crash Bandicoot N. Sane Trilogy,PlayStation4,"June 30, 2017",80,8.4
+618,Fable III,Xbox360,"October 26, 2010",80,6.6
+619,Valorant,PC,"June 2, 2020",80,4.9
+620,Gravity Rush 2,PlayStation4,"January 20, 2017",80,8.1
+621,Day of Defeat: Source,PC,"September 26, 2005",80,9.0
+622,Pokemon Sword,Switch,"November 15, 2019",80,4.6
+623,World of Tanks,PC,"April 12, 2011",80,3.4
+624,Vampire: The Masquerade - Bloodlines,PC,"November 16, 2004",80,8.9
+625,Need for Speed: Rivals,PlayStation4,"November 15, 2013",80,6.2
+626,"Pokemon: Let's Go, Eevee!",Switch,"November 16, 2018",80,6.4
+627,Diablo II: Resurrected,PC,"September 23, 2021",80,3.0
+628,Age of Wonders III,PC,"March 31, 2014",80,8.0
+629,inFamous: Second Son,PlayStation4,"March 21, 2014",80,8.0
+630,Tom Clancy's The Division,XboxOne,"March 8, 2016",80,6.9
+631,BioShock Infinite: Burial at Sea - Episode Two,PC,"March 25, 2014",80,8.5
+632,S.T.A.L.K.E.R.: Call of Pripyat,PC,"February 2, 2010",80,8.6
+633,Paper Mario: The Origami King,Switch,"July 17, 2020",80,7.0
+634,Total War: Attila,PC,"February 17, 2015",80,7.4
+635,Middle-earth: Shadow of War,PlayStation4,"October 10, 2017",80,4.7
+636,Forza Motorsport 5,XboxOne,"November 22, 2013",79,6.0
+637,Metroid: Other M,Wii,"August 31, 2010",79,6.7
+638,The Evil Within,XboxOne,"October 14, 2014",79,7.6
+639,South Park: The Fractured But Whole,PlayStation4,"October 17, 2017",79,7.8
+640,GrimGrimoire,PlayStation2,"June 26, 2007",79,9.7
+641,Valiant Hearts: The Great War,PC,"June 25, 2014",79,8.6
+642,Payday 2,PC,"August 13, 2013",79,3.9
+643,Until Dawn,PlayStation4,"August 25, 2015",79,8.3
+644,New Pokemon Snap,Switch,"April 30, 2021",79,6.9
+645,Assassin's Creed: Director's Cut Edition,PC,"April 8, 2008",79,7.4
+646,LittleBigPlanet 3,PlayStation4,"November 18, 2014",79,7.1
+647,"Pokemon: Let's Go, Pikachu!",Switch,"November 16, 2018",79,6.3
+648,Rochard,PlayStation3,"September 27, 2011",79,9.6
+649,Call of Juarez: Gunslinger,PC,"May 22, 2013",79,8.2
+650,Catherine,PlayStation3,"July 26, 2011",79,8.3
+651,Day of Defeat,PC,"May 6, 2003",79,9.0
+652,Resident Evil 4: Ultimate HD Edition,PC,"February 27, 2014",79,8.6
+653,Final Fantasy XIII-2,PlayStation3,"January 31, 2012",79,6.9
+654,Gothic II,PC,"October 28, 2003",79,9.1
+655,Heavenly Sword,PlayStation3,"September 12, 2007",79,8.1
+656,Mafia: Definitive Edition,PC,"September 24, 2020",79,6.8
+657,Tales of Berseria,PlayStation4,"January 24, 2017",79,7.2
+658,Prototype,PC,"June 10, 2009",79,7.7
+659,Gears of War: Judgment,Xbox360,"March 19, 2013",79,5.7
+660,Halo Wars 2,XboxOne,"February 17, 2017",79,6.3
+661,Don't Starve,PC,"April 23, 2013",79,8.3
+662,Chivalry: Medieval Warfare,PC,"October 16, 2012",79,7.7
+663,FIFA 20,PlayStation4,"September 24, 2019",79,1.3
+664,F.E.A.R. 2: Project Origin,PC,"February 10, 2009",79,7.7
+665,Tom Clancy's Rainbow Six Siege,PC,"December 1, 2015",79,7.0
+666,World of Warcraft: Battle for Azeroth,PC,"August 13, 2018",79,2.7
+667,Call of Duty: WWII,PlayStation4,"November 3, 2017",79,4.9
+668,Shadow Warrior 2,PC,"October 13, 2016",78,8.0
+669,Star Wars: Battlefront II,PC,"October 31, 2005",78,8.6
+670,The Walking Dead: Season Two Episode 1 - All That Remains,PC,"December 17, 2013",78,8.4
+671,Detroit: Become Human,PlayStation4,"May 25, 2018",78,8.7
+672,A Way Out,PlayStation4,"March 23, 2018",78,7.9
+673,Lost Odyssey,Xbox360,"February 12, 2008",78,8.4
+674,Stellaris,PC,"May 9, 2016",78,8.0
+675,Hyrule Warriors: Age of Calamity,Switch,"November 20, 2020",78,7.9
+676,For Honor,PlayStation4,"February 14, 2017",78,6.1
+677,League of Legends,PC,"October 27, 2009",78,5.2
+678,The Wonderful 101,WiiU,"September 15, 2013",78,8.6
+679,Killzone: Mercenary,PlayStationVita,"September 10, 2013",78,8.8
+680,State of Decay,Xbox360,"June 5, 2013",78,7.3
+681,Sonic Colors,Wii,"November 16, 2010",78,8.3
+682,Dying Light 2 Stay Human,PC,"February 4, 2022",78,4.2
+683,Assassin's Creed Syndicate,XboxOne,"October 23, 2015",78,6.5
+684,Call of Duty: Ghosts,PlayStation4,"November 15, 2013",78,4.0
+685,NBA 2K20,PlayStation4,"September 6, 2019",78,1.4
+686,New Super Mario Bros. 2,3DS,"August 19, 2012",78,7.2
+687,Dead Rising 3,XboxOne,"November 22, 2013",78,6.9
+688,Mount & Blade: Warband,PC,"March 30, 2010",78,8.9
+689,Dead Space 3,Xbox360,"February 5, 2013",78,6.4
+690,EA SPORTS UFC 4,PlayStation4,"August 14, 2020",78,1.7
+691,Everybody's Gone to the Rapture,PlayStation4,"August 11, 2015",78,6.5
+692,Titan Quest,PC,"June 26, 2006",77,8.1
+693,Nintendo Land,WiiU,"November 18, 2012",77,7.9
+694,Kingdom Hearts HD 1.5 ReMIX,PlayStation3,"September 10, 2013",77,8.8
+695,Mafia II,PC,"August 23, 2010",77,8.2
+696,ArmA II,PC,"July 7, 2009",77,7.5
+697,Street Fighter V,PlayStation4,"February 16, 2016",77,3.7
+698,Sonic Generations,Xbox360,"November 1, 2011",77,8.2
+699,Quantum Break,XboxOne,"April 5, 2016",77,7.2
+700,Supreme Commander 2,PC,"March 1, 2010",77,6.2
+701,ARMS,Switch,"June 16, 2017",77,7.2
+702,Heroes of Might and Magic V,PC,"May 23, 2006",77,8.0
+703,Might & Magic: Heroes VI,PC,"October 13, 2011",77,6.0
+704,Call of Duty: Infinite Warfare,PlayStation4,"November 4, 2016",77,4.1
+705,Endless Space,PC,"July 4, 2012",77,7.4
+706,Evolve,PC,"February 9, 2015",77,4.3
+707,Risen,PC,"October 2, 2009",77,8.1
+708,The Darkness II,PC,"February 6, 2012",77,7.6
+709,ZombiU,WiiU,"November 18, 2012",77,7.7
+710,TERA,PC,"May 1, 2012",77,6.8
+711,Destiny,PlayStation4,"September 9, 2014",76,6.1
+712,Call of Duty: Black Ops Cold War,XboxSeriesX,"November 13, 2020",76,3.5
+713,Crysis 3,PC,"February 19, 2013",76,6.7
+714,Total War: Rome II,PC,"September 2, 2013",76,4.4
+715,Wolfenstein: The Old Blood,PC,"May 5, 2015",76,7.9
+716,Operation Flashpoint: Dragon Rising,PC,"October 6, 2009",76,5.0
+717,Lock On: Modern Air Combat,PC,"July 26, 2005",76,7.4
+718,Madden NFL 20,PlayStation4,"July 30, 2019",76,1.4
+719,Super Mario Party,Switch,"October 5, 2018",76,7.1
+720,MAG,PlayStation3,"January 26, 2010",76,8.2
+721,Kingdom Come: Deliverance,PC,"February 13, 2018",76,8.0
+722,Shadowrun Returns,PC,"July 25, 2013",76,7.5
+723,Far Cry Primal,PlayStation4,"February 23, 2016",76,6.7
+724,Days Gone,PC,"May 18, 2021",76,8.8
+725,Red Orchestra 2: Heroes of Stalingrad,PC,"September 13, 2011",76,7.3
+726,Mass Effect: Andromeda,XboxOne,"March 21, 2017",76,5.1
+727,Hyrule Warriors,WiiU,"September 26, 2014",76,8.3
+728,Watch Dogs: Legion,XboxOne,"October 29, 2020",76,6.1
+729,Batman: Arkham Origins,PlayStation3,"October 25, 2013",76,7.8
+730,Artifact,PC,"November 28, 2018",76,2.2
+731,Pokemon Emerald Version,GameBoyAdvance,"April 30, 2005",76,8.9
+732,Dear Esther,PC,"April 26, 2012",75,6.5
+733,Borderlands: The Pre-Sequel,PC,"October 13, 2014",75,6.4
+734,Outlast 2,PC,"April 25, 2017",75,6.6
+735,Mario Tennis Aces,Switch,"June 22, 2018",75,7.1
+736,Paper Mario: Sticker Star,3DS,"November 11, 2012",75,5.5
+737,Kingdom Hearts 3D: Dream Drop Distance,3DS,"June 5, 2012",75,8.2
+738,S.T.A.L.K.E.R.: Clear Sky,PC,"September 15, 2008",75,7.6
+739,Dreamfall: The Longest Journey,PC,"April 17, 2006",75,8.5
+740,Gran Turismo Sport,PlayStation4,"October 17, 2017",75,6.1
+741,Life is Strange: Episode 1 - Chrysalis,PlayStation4,"January 30, 2015",75,8.1
+742,Star Wars Battlefront,XboxOne,"November 17, 2015",75,4.6
+743,The Medium,PC,"January 28, 2021",75,7.1
+744,Dying Light,PC,"January 27, 2015",75,8.0
+745,Alice: Madness Returns,PC,"June 14, 2011",75,8.4
+746,Resident Evil: Revelations 2,PlayStation4,"March 17, 2015",75,7.7
+747,Resident Evil 6,PlayStation3,"October 2, 2012",74,5.7
+748,Just Cause 3,PC,"November 30, 2015",74,5.8
+749,Insurgency,PC,"March 1, 2013",74,8.5
+750,Hotline Miami 2: Wrong Number,PC,"March 10, 2015",74,7.7
+751,"Warhammer 40,000: Space Marine",PC,"September 5, 2011",74,7.5
+752,Far Cry 6,PC,"October 7, 2021",74,3.7
+753,Magicka,PC,"January 25, 2011",74,7.6
+754,F.E.A.R. 3,PC,"June 21, 2011",74,5.9
+755,The Secret World,PC,"July 3, 2012",74,8.3
+756,Assassin's Creed Rogue,PC,"March 9, 2015",74,7.2
+757,Mirror's Edge Catalyst,PC,"June 7, 2016",74,5.4
+758,PlayStation All-Stars Battle Royale,PlayStation3,"November 20, 2012",74,7.3
+759,The Elder Scrolls Online: Tamriel Unlimited,PlayStation4,"June 9, 2015",74,7.6
+760,Arma 3,PC,"March 5, 2013",74,7.6
+761,Shadow Warrior,PC,"September 26, 2013",73,8.0
+762,Far Cry New Dawn,PC,"February 15, 2019",73,3.9
+763,Killzone: Shadow Fall,PlayStation4,"November 15, 2013",73,6.8
+764,Battlefield Hardline,PlayStation4,"March 17, 2015",73,5.2
+765,Black Desert Online,PC,"March 3, 2016",73,6.8
+766,Call of Duty: Vanguard,PlayStation5,"November 4, 2021",73,3.6
+767,Mad Max,PC,"September 1, 2015",73,7.8
+768,Kirby Star Allies,Switch,"March 16, 2018",73,7.5
+769,Pokemon Brilliant Diamond,Switch,"November 19, 2021",73,5.4
+770,Lords of the Fallen,PC,"October 28, 2014",73,6.8
+771,Banished,PC,"February 18, 2014",73,8.1
+772,Killer Instinct,XboxOne,"November 22, 2013",73,6.4
+773,Dragon Ball Z: Kakarot,PlayStation4,"January 17, 2020",73,7.9
+774,RAGE 2,PC,"May 13, 2019",73,5.5
+775,Pathfinder: Kingmaker,PC,"September 25, 2018",73,7.4
+776,God Hand,PlayStation2,"October 10, 2006",73,9.1
+777,inFamous: First Light,PlayStation4,"August 26, 2014",73,7.4
+778,Beyond: Two Souls,PlayStation4,"November 24, 2015",72,7.9
+779,Alpha Protocol,PC,"June 1, 2010",72,7.5
+780,Serious Sam 3: BFE,PC,"November 22, 2011",72,8.1
+781,Final Fantasy Type-0 HD,PlayStation4,"March 17, 2015",72,7.5
+782,Mount & Blade,PC,"September 16, 2008",72,8.5
+783,Need for Speed Heat,PlayStation4,"November 8, 2019",72,6.1
+784,After Burner Climax,Xbox360,"April 21, 2010",72,9.7
+785,The Incredible Adventures of Van Helsing,PC,"May 22, 2013",72,8.1
+786,FIFA 21,PlayStation4,"October 6, 2020",72,0.8
+787,Medal of Honor,PC,"October 12, 2010",72,6.5
+788,Amnesia: A Machine for Pigs,PC,"September 10, 2013",72,5.9
+789,Assassin's Creed Unity,XboxOne,"November 11, 2014",72,5.0
+790,Dark Messiah of Might and Magic,PC,"October 24, 2006",72,8.7
+791,Saints Row 2,PC,"January 5, 2009",72,6.9
+792,Vampyr,PC,"June 4, 2018",72,6.8
+793,GreedFall,PC,"September 9, 2019",72,7.5
+794,Killing Floor,PC,"May 14, 2009",72,8.6
+795,Battletoads,XboxOne,"August 20, 2020",72,6.5
+796,The Elder Scrolls Online,PC,"April 4, 2014",71,5.7
+797,Driveclub,PlayStation4,"October 7, 2014",71,6.3
+798,No Man's Sky,PlayStation4,"August 9, 2016",71,4.8
+799,Code Vein,PlayStation4,"September 27, 2019",70,7.8
+800,Darksiders III,PC,"November 27, 2018",70,7.1
+801,Brink,PC,"May 9, 2011",70,6.0
+802,BioShock Infinite: Burial at Sea - Episode One,PC,"November 12, 2013",70,7.7
+803,Tom Clancy's Ghost Recon: Wildlands,PlayStation4,"March 7, 2017",70,6.4
+804,Thief,PC,"February 25, 2014",70,5.9
+805,New World,PC,"September 28, 2021",70,5.7
+806,The Sims 4,PC,"September 2, 2014",70,4.1
+807,Homefront,PC,"March 14, 2011",70,5.6
+808,Madden NFL 21,XboxOne,"August 25, 2020",69,0.5
+809,Wolfenstein: Youngblood,PC,"July 26, 2019",69,2.4
+810,Star Fox Zero,WiiU,"April 22, 2016",69,7.4
+811,Risen 2: Dark Waters,PC,"April 24, 2012",69,5.8
+812,Knack 2,PlayStation4,"September 5, 2017",69,7.8
+813,Sea of Thieves,XboxOne,"March 20, 2018",69,5.2
+814,Dragon Ball: Xenoverse,PlayStation4,"February 24, 2015",69,7.7
+815,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,PlayStation4,"June 23, 2020",68,8.9
+816,NBA 2K21,PlayStation4,"September 4, 2020",68,0.8
+817,Star Wars Battlefront II,PlayStation4,"November 14, 2017",68,1.6
+818,Aliens vs. Predator,PC,"February 16, 2010",68,7.4
+819,Battlefield 2042,PC,"November 12, 2021",68,2.1
+820,Game Dev Tycoon,PC,"April 28, 2013",68,8.0
+821,Age of Empires II: HD Edition,PC,"April 9, 2013",68,7.9
+822,Mafia III,PlayStation4,"October 7, 2016",68,5.3
+823,Madden NFL 22,PlayStation5,"August 17, 2021",68,0.6
+824,MediEvil,PlayStation4,"October 25, 2019",67,8.1
+825,Marvel's Avengers,PlayStation4,"September 1, 2020",67,4.9
+826,Elex,PC,"October 17, 2017",67,7.0
+827,Shenmue III,PlayStation4,"November 19, 2019",67,7.7
+828,The Bureau: XCOM Declassified,PC,"August 19, 2013",66,6.5
+829,Lightning Returns: Final Fantasy XIII,PlayStation3,"February 11, 2014",66,6.1
+830,State of Decay 2,XboxOne,"May 18, 2018",66,5.5
+831,Star Trek Online,PC,"February 2, 2010",66,6.2
+832,Need for Speed,PlayStation4,"November 3, 2015",66,6.9
+833,Bleeding Edge,XboxOne,"March 24, 2020",66,6.2
+834,Sniper Elite V2,PC,"April 30, 2012",66,6.7
+835,Remember Me,PC,"June 3, 2013",65,7.4
+836,Anthem,XboxOne,"February 22, 2019",65,4.0
+837,Counter-Strike: Condition Zero,PC,"January 3, 2004",65,8.7
+838,Risen 3: Titan Lords,PC,"August 12, 2014",65,5.8
+839,Defiance,PC,"April 2, 2013",64,6.6
+840,SimCity,PC,"March 5, 2013",64,2.2
+841,Command & Conquer 4: Tiberian Twilight,PC,"March 16, 2010",64,2.1
+842,Warframe,PlayStation4,"November 12, 2013",64,7.1
+843,ReCore,XboxOne,"September 13, 2016",63,6.7
+844,Gothic 3,PC,"November 14, 2006",63,7.5
+845,Castlevania: Lords of Shadow 2,PlayStation3,"February 25, 2014",63,7.7
+846,Sonic: Lost World,WiiU,"October 29, 2013",63,7.2
+847,The Order: 1886,PlayStation4,"February 20, 2015",63,6.7
+848,Goat Simulator,PC,"April 1, 2014",62,6.6
+849,Destruction AllStars,PlayStation5,"February 2, 2021",62,5.0
+850,Godfall,PlayStation5,"November 12, 2020",61,4.2
+851,The Crew,PlayStation4,"December 2, 2014",61,5.3
+852,Ryse: Son of Rome,PC,"October 10, 2014",61,6.8
+853,Need for Speed Payback,PlayStation4,"November 7, 2017",61,4.3
+854,Sonic Unleashed,Xbox360,"November 20, 2008",60,8.4
+855,Crackdown 3,XboxOne,"February 15, 2019",60,4.3
+856,Metal Gear Survive,PlayStation4,"February 20, 2018",60,1.4
+857,Warcraft III: Reforged,PC,"January 28, 2020",59,0.6
+858,Tom Clancy's Ghost Recon: Breakpoint,PC,"October 4, 2019",58,2.8
+859,Marvel Heroes,PC,"June 3, 2013",58,6.7
+860,Sonic Forces,PlayStation4,"November 7, 2017",57,6.5
+861,Sacred 3,PC,"July 31, 2014",57,1.5
+862,Destiny 2: Curse of Osiris,PlayStation4,"December 5, 2017",57,1.5
+863,Medal of Honor: Warfighter,PC,"October 23, 2012",55,5.5
+864,Knack,PlayStation4,"November 15, 2013",54,6.4
+865,Grand Theft Auto: The Trilogy - The Definitive Edition,PlayStation5,"November 11, 2021",54,0.9
+866,Duke Nukem Forever,PC,"June 13, 2011",54,5.8
+867,Fallout 76,PlayStation4,"November 14, 2018",53,2.8
+868,Postal 2,PC,"April 14, 2003",50,8.1
+869,Sonic the Hedgehog,Xbox360,"November 14, 2006",46,5.1
+870,Aliens: Colonial Marines,PC,"February 11, 2013",45,3.6
+871,Hatred,PC,"June 1, 2015",43,4.8
+872,Left Alive,PlayStation4,"March 5, 2019",37,8.2
+873,X Rebirth,PC,"November 15, 2013",33,3.2
+874,Call of Duty: Black Ops Declassified,PlayStationVita,"November 13, 2012",33,4.9
+875,Sonic Boom: Rise of Lyric,WiiU,"November 11, 2014",32,3.5

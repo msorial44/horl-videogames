@@ -5,14 +5,18 @@
     "scripts": {
         "client": "cd client && npm start",
         "server": "nodemon server.js",
-        "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
+        "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
     },
     "dependencies": {
-      "body-parser": "^1.18.3",
-      "express": "^4.16.4"
+        "axios": "^0.26.1",
+        "body-parser": "^1.18.3",
+        "cheerio": "^1.0.0-rc.10",
+        "danfojs-node": "^1.0.4",
+        "express": "^4.17.3",
+        "nodemon": "^2.0.15",
+        "pretty": "^2.0.0"
     },
     "devDependencies": {
-      "concurrently": "^4.0.1"
+        "concurrently": "^4.0.1"
     }
 }
-  

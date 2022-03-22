@@ -1,21 +1,31 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const dfd = require('danfojs-node');
+
+async function getRandoGame() {
+    return dfd.readCSV("./data/games-data-final.csv").then(df => {
+      let rand = Math.floor(Math.random() * df.shape[0]);
+      let game = df.iloc({rows: [rand]});
+      let gameObj = {
+        name: game['name'].values[0],
+        platform: game['platform'].values[0],
+        rData: game['r-date'].values[0],
+        Score: game['score'].values[0],
+      };
+      return gameObj;
+    });
+}
 
 const app = express();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3001;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/api/hello', (req, res) => {
-  res.send({ express: 'Hello From Express' });
-});
-
-app.post('/api/world', (req, res) => {
-  console.log(req.body);
-  res.send(
-    `I received your POST request. This is what you sent me: ${req.body.post}`,
-  );
+app.get('/api/getGame', (req, res) => {
+  getRandoGame().then(game => {
+    res.send(game);
+  });
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

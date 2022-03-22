@@ -1,23 +1,32 @@
-import React from 'react';
+import { Button, Input } from 'antd';
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import axios from 'axios';
+
+
 
 function App() {
+  const [data, setData] = useState("");
+
+  const getGame = async () => {
+    axios.get('/api/getGame').then((res) => {
+      console.log(res);
+      setData(res.data.name)
+    });
+    
+  }
+
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          {data}
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Button className="auth-primary-btn" type="primary" onClick={() => getGame()} >
+          get score
+        </Button>
       </header>
     </div>
   );
