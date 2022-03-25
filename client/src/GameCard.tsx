@@ -1,5 +1,5 @@
 import { Button, Input } from 'antd';
-import React, { useState } from 'react';
+import React, { Component, useState } from 'react';
 import axios from 'axios';
 import './App.scss';
 
@@ -8,8 +8,22 @@ function GameCard(props: any) {
     const [platform, setPlatform] = useState('');
     const [score, setScore] = useState(0);
     const [rdate, setRdate] = useState('');
+    const [img, setImg] = useState('');
     const [refresh, setRefresh] = useState(props.refresh);
     const [showHOL, setShowHOL] = useState(true);
+    const [pos, setPos] = useState(props.cardPos);
+
+    if (props.cardPos !== pos) {
+        setPos(props.cardPos);
+        if (props.cardPos === 2) {
+            setRefresh(true);
+            setShowHOL(true);
+        }
+    }
+
+    if (showHOL && props.cardPos === 0) {
+        setShowHOL(false);
+    }
 
     if(refresh) {
         setRefresh(false);
@@ -20,15 +34,28 @@ function GameCard(props: any) {
             setPlatform(res.data.platform);
             setScore(res.data.score);
             setRdate(res.data.rdate);
+            if (res.data.image[0] === '/') {
+                setImg("https:" +  res.data.image);
+                console.log("https:" +  res.data.image)
+            } else {
+                setImg(res.data.image)
+            }
+            props.scoreCallback(res.data.score);
         });
     }
 
-    function setHOL() {
+    function setHOL(guess: string) {
         setShowHOL(false)
+        setPos(0);
+        props.cardCallback(0);
+        props.guessCallback(guess)
     }
 
     return (
-        <div className='game-card'>
+        <div className={`game-card ${pos === 0 ? 'game-card-left' : ''} ${pos === 2 ? 'game-card-right' : ''}`}>
+            <div className="game-img">
+                <img src={img} alt="game-img" />
+            </div>
             <div className='game-title'>
                 {name + " (" + String(rdate.split(',')[1]).trim() + ")"}
             </div>
@@ -43,12 +70,12 @@ function GameCard(props: any) {
             </div>
             <div className={`hol-buttons ${showHOL ? 'hol-buttons-toggled' : ''}`}>
                 <div>
-                    <Button type="default" className ='higher-button' onClick={() => setHOL()}>
+                    <Button type="default" className ='higher-button' onClick={() => setHOL('higher')}>
                         Higher
                     </Button>
                 </div>
                 <div>
-                    <Button type="default" className ='lower-button' onClick={() => setHOL()}>
+                    <Button type="default" className ='lower-button' onClick={() => setHOL('lower')}>
                         Lower
                     </Button>
                 </div>

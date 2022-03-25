@@ -11,6 +11,7 @@ async function getRandoGame() {
         platform: game['platform'].values[0],
         rdate: game['r-date'].values[0],
         score: game['score'].values[0],
+        image: game['image-link'].values[0]
       };
       return gameObj;
     });
