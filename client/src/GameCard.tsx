@@ -52,7 +52,7 @@ function GameCard(props: any) {
     }
 
     return (
-        <div className={`game-card ${pos === 0 ? 'game-card-left' : ''} ${pos === 2 ? 'game-card-right' : ''}`}>
+        <div className={`game-card ${pos === 1 ? 'game-card-center ' : ''} ${pos === 0 ? 'game-card-left' : ''} ${pos === 2 ? 'game-card-right' : ''}`}>
             <div className="game-img">
                 <img src={img} alt="game-img" />
             </div>

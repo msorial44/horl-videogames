@@ -31,14 +31,18 @@
 .game-card {
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 45vw;
-  margin-left: 10vw;
   min-height: 100vh;
   padding: 0;
   margin: 0;
   flex-direction: column;
   color: whitesmoke;
-  order: 2;
+
+  &.game-card-center {
+    order: 2;
+    margin-left: 10vw;
+  }
 
   &.game-card-left {
     order: 1;
@@ -50,6 +54,13 @@
     visibility: collapse;
     opacity: 0;
     margin-left: 0vw;
+  }
+
+}
+
+@keyframes scale {
+  100% {
+       transform: translate(-55vw, 0);
   }
 }
 
@@ -100,7 +111,7 @@
 .higher-button {
   background: green 0% 0% no-repeat padding-box;
 	border-radius: 1rem;
-	width: 20%;
+	min-width: 15rem;
   border: 0px;
   color: white;
   padding-bottom: .5rem;
@@ -111,7 +122,7 @@
 .lower-button {
   background: red 0% 0% no-repeat padding-box;
 	border-radius: 1rem;
-	width: 20%;
+	min-width: 15rem;
   border: 0px;
   color: white;
   padding-bottom: .5rem;
