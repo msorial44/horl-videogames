@@ -174,10 +174,10 @@ function App() {
   let duration = 1000;
 
   function slide() {
-      let cards = document.getElementsByClassName("card");
+      let cards = document.getElementsByClassName("card")!;
 
       for (let i = 0; i < cards.length; i++) {
-          let card = cards.item(i);
+          let card: any = cards.item(i);
           card.animate([{ transform: "translate(-50vw)" }], { duration: duration, fill: "both" });
           
           setTimeout(() => {
@@ -190,7 +190,7 @@ function App() {
           }, duration);
       }
 
-      content.push(content.shift());
+      content.push(content.shift()!);
       //then, change html string at index 2 to the next game's gameCard html
   }
 
