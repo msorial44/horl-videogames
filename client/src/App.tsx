@@ -130,6 +130,7 @@ function App() {
   }
 
   function checkGuess(guess: string) {
+    setTimeout(slide, 500);
     if (guess === "higher") {
       
       if (card1Pos === 1) {
@@ -195,7 +196,6 @@ function App() {
         }
       }
     }
-    slide();
   }
 
   return (
