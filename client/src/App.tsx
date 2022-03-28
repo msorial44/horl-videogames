@@ -173,7 +173,6 @@ function App() {
 
   return (
     <div className="App">
-      {score}
       <div className='card-container'>
           <GameCard refresh={refresh1} refreshCallback={refreshCard1} cardPos={card1Pos} cardCallback={posCallback1} scoreCallback={scoreCallback1} guessCallback={checkGuess}/>
           <GameCard refresh={refresh2} refreshCallback={refreshCard2} cardPos={card2Pos} cardCallback={posCallback2} scoreCallback={scoreCallback2} guessCallback={checkGuess}/>

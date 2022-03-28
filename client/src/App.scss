@@ -5,56 +5,58 @@
   background-color: rgb(49, 52, 58);
   max-width: 100vw;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .card-container {
+  position: absolute;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: row;
-  width: 100%;
-  height: 100%;
+  justify-items: center;
+  align-items: center;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
   padding: 0;
   margin: 0;
   background-color: rgb(49, 52, 58);
-  overflow: hidden;
 }
 
 .game-img {
 
-  .img {
+  img {
     max-height: 20rem;
   }
   
 }
 
 .game-card {
+  position: absolute;
   display: flex;
-  position: relative;
-  justify-content: center;
-  align-items: center;
-  width: 45vw;
-  min-height: 100vh;
-  padding: 0;
-  margin: 0;
   flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  width: 45vw;
+  min-height: 50vh;
   color: whitesmoke;
+  transition: left 0.5s;
+
+  &.game-card-left {
+    z-index: 0;
+    left: 0%;
+  }
 
   &.game-card-center {
-    order: 2;
+    z-index: 1;
+    left: 45%;
     margin-left: 10vw;
   }
 
-  &.game-card-left {
-    order: 1;
-    margin-left: 0vw;
-  }
-
   &.game-card-right {
-    order: 3;
-    visibility: collapse;
-    opacity: 0;
-    margin-left: 0vw;
+    visibility: hidden;
+    z-index: 2;
+    left: 100%;
+    transition: left 0.0s;
   }
 
 }
