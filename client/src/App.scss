@@ -53,19 +53,27 @@
   }
 
   &.game-card-right {
-    visibility: hidden;
     z-index: 2;
-    left: 100%;
+    
+    animation: right;
+    animation-duration: 0.5s;
+
     transition: left 0.0s;
+    transition-delay: 0.5s;
+    left: 100%;
   }
 
 }
 
-@keyframes scale {
+@keyframes right {
+  0% {
+    left: 0%;
+  }
   100% {
-       transform: translate(-55vw, 0);
+    left: -45%;
   }
 }
+
 
 .game-title {
   font-size: 3rem;

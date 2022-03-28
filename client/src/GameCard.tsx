@@ -25,7 +25,28 @@ function GameCard(props: any) {
         setShowHOL(false);
     }
 
-    if(refresh) {
+    if(refresh && props.cardPos === 2) {
+        setTimeout(() => {
+            setRefresh(false);
+            axios.get('/api/getGame').then((res) => {
+                console.log(res.data);
+                props.refreshCallback();
+                setName(res.data.name);
+                setPlatform(res.data.platform);
+                setScore(res.data.score);
+                setRdate(res.data.rdate);
+                if (res.data.image[0] === '/') {
+                    setImg("https:" +  res.data.image);
+                    console.log("https:" +  res.data.image)
+                } else {
+                    setImg(res.data.image)
+                }
+                props.scoreCallback(res.data.score);
+            });
+        }, 500);
+    }
+
+    if(refresh && props.cardPos !== 2) {
         setRefresh(false);
         axios.get('/api/getGame').then((res) => {
             console.log(res.data);
