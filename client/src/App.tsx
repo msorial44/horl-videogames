@@ -102,32 +102,34 @@ function App() {
     setScore3(num);
   }
 
-  let content = ["card1\ncard", "card2", "card3"]; //fill with gamecard html strings
+  let content = ["card1", "card2", "card3"];
   let duration = 1000;
 
   function slide() {
-      let cards = document.getElementsByClassName("game-card")!;
+    let cards = document.getElementsByClassName("game-card")!;
 
-      for (let i = 0; i < cards.length; i++) {
-          let card: any = cards.item(i);
-          card.animate([{ transform: "translate(-50vw)" }], { duration: duration, fill: "both" });
-          
-          setTimeout(() => {
-              card.remove();
-              
-              let newCard = document.createElement("div");
-              newCard.classList.add("game-card");
-              newCard.innerText = content[i];
-              document.getElementsByClassName("card-container")[0].appendChild(newCard);
-          }, duration);
-      }
+    for (let i = 0; i < cards.length; i++) {
+      let card: any = cards.item(i);
+      content[i] = card.innerHTML;
+      card.animate([{ transform: "translate(-50vw)" }], { duration: duration, fill: "both" });
+      
+      setTimeout(() => {
+        card.remove();
+        
+        let newCard = document.createElement("GameCard"), classes = ["game-card-left", "game-card-center", "game-card-right"];
+        newCard.classList.add("game-card");
+        newCard.classList.add(classes[i])
+        newCard.innerHTML = content[i];
+        document.getElementsByClassName("card-container")[0].appendChild(newCard);
+      }, duration);
+    }
 
-      content.push(content.shift()!);
-      //then, change html string at index 2 to the next game's gameCard html
+    content.push(content.shift()!);
+    //then, change html string at index 2 to the next game's gameCard html
+    setCard1Pos(0);
   }
 
   function checkGuess(guess: string) {
-    slide();
     if (guess === "higher") {
       
       if (card1Pos === 1) {
@@ -193,6 +195,7 @@ function App() {
         }
       }
     }
+    slide();
   }
 
   return (
