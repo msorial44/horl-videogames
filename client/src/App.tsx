@@ -102,7 +102,32 @@ function App() {
     setScore3(num);
   }
 
+  let content = ["card1\ncard", "card2", "card3"]; //fill with gamecard html strings
+  let duration = 1000;
+
+  function slide() {
+      let cards = document.getElementsByClassName("game-card")!;
+
+      for (let i = 0; i < cards.length; i++) {
+          let card: any = cards.item(i);
+          card.animate([{ transform: "translate(-50vw)" }], { duration: duration, fill: "both" });
+          
+          setTimeout(() => {
+              card.remove();
+              
+              let newCard = document.createElement("div");
+              newCard.classList.add("game-card");
+              newCard.innerText = content[i];
+              document.getElementsByClassName("card-container")[0].appendChild(newCard);
+          }, duration);
+      }
+
+      content.push(content.shift()!);
+      //then, change html string at index 2 to the next game's gameCard html
+  }
+
   function checkGuess(guess: string) {
+    slide();
     if (guess === "higher") {
       
       if (card1Pos === 1) {
@@ -169,31 +194,6 @@ function App() {
       }
     }
   }
-
-  let content = ["card1\ncard", "card2", "card3"]; //fill with gamecard html strings
-  let duration = 1000;
-
-  function slide() {
-      let cards = document.getElementsByClassName("card")!;
-
-      for (let i = 0; i < cards.length; i++) {
-          let card: any = cards.item(i);
-          card.animate([{ transform: "translate(-50vw)" }], { duration: duration, fill: "both" });
-          
-          setTimeout(() => {
-              card.remove();
-              
-              let newCard = document.createElement("div");
-              newCard.classList.add("card");
-              newCard.innerText = content[i];
-              document.getElementsByClassName("card-container")[0].appendChild(newCard);
-          }, duration);
-      }
-
-      content.push(content.shift()!);
-      //then, change html string at index 2 to the next game's gameCard html
-  }
-
 
   return (
     <div className="App">
