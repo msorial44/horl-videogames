@@ -127,6 +127,7 @@ function App() {
     content.push(content.shift()!);
     //then, change html string at index 2 to the next game's gameCard html
     setCard1Pos(0);
+    //setRefresh1(true);
   }
 
   function checkGuess(guess: string) {
