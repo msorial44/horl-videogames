@@ -57,6 +57,7 @@
     
     animation: right;
     animation-duration: 0.5s;
+    animation-delay: 0.0s;
 
     transition: left 0.0s;
     transition-delay: 0.5s;
@@ -109,13 +110,17 @@
   overflow: hidden;
   opacity: 0;
   visibility: collapse;
-  transition: opacity 0.3s;
-  transition-delay: visibility 0.3s;
+  transition-delay: visibility 15s;
+  transition-delay: opacity 15s;
+  transition: opacity 13s;
   margin-top: 1rem;
 
   &.hol-buttons-toggled {
     opacity: 1;
     visibility: visible;
+    transition-delay: 0s;
+    transition: opacity 15s;
+    transition: visibility 15s;
   }
 }
 
