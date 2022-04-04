@@ -1,4 +1,3 @@
-import { Button, Row, Col } from 'antd';
 import React, { useState } from 'react';
 import 'animate.css';
 import GameCard from './GameCard';
@@ -175,6 +174,10 @@ function App() {
     <div className="App">
       <div className='card-container'>
           <GameCard refresh={refresh1} refreshCallback={refreshCard1} cardPos={card1Pos} cardCallback={posCallback1} scoreCallback={scoreCallback1} guessCallback={checkGuess}/>
+          <div className='score-container'>
+            Score: {score}
+          </div>
+          <div className='score-divider'></div>
           <GameCard refresh={refresh2} refreshCallback={refreshCard2} cardPos={card2Pos} cardCallback={posCallback2} scoreCallback={scoreCallback2} guessCallback={checkGuess}/>
           <GameCard refresh={refresh3} refreshCallback={refreshCard3} cardPos={card3Pos} cardCallback={posCallback3} scoreCallback={scoreCallback3} guessCallback={checkGuess}/>
       </div>
