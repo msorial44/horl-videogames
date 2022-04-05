@@ -40,6 +40,7 @@
   min-height: 50vh;
   color: whitesmoke;
   transition: left 0.5s;
+  transition-delay: 0.3s;
 
   &.game-card-left {
     z-index: 0;
@@ -48,8 +49,7 @@
 
   &.game-card-center {
     z-index: 1;
-    left: 45%;
-    margin-left: 10vw;
+    left: 55%;
   }
 
   &.game-card-right {
@@ -57,10 +57,10 @@
     
     animation: right;
     animation-duration: 0.5s;
-    animation-delay: 0.0s;
+    animation-delay: 0.3s;
 
     transition: left 0.0s;
-    transition-delay: 0.5s;
+    transition-delay: 0.8s;
     left: 100%;
   }
 
