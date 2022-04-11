@@ -36,7 +36,7 @@
   flex-direction: column;
   align-items: center;
   justify-items: center;
-  width: 45vw;
+  width: 40vw;
   min-height: 50vh;
   color: whitesmoke;
   transition: left 0.5s;
@@ -44,7 +44,7 @@
 
   &.game-card-left {
     z-index: 0;
-    left: 0%;
+    left: 5%;
   }
 
   &.game-card-center {
@@ -58,6 +58,7 @@
     animation: right;
     animation-duration: 0.5s;
     animation-delay: 0.3s;
+    animation-fill-mode: backwards;
 
     transition: left 0.0s;
     transition-delay: 0.8s;
@@ -68,7 +69,7 @@
 
 @keyframes right {
   0% {
-    left: 0%;
+    left: 5%;
   }
   100% {
     left: -45%;
@@ -110,18 +111,23 @@
   overflow: hidden;
   opacity: 0;
   visibility: collapse;
-  transition-delay: visibility 15s;
-  transition-delay: opacity 15s;
-  transition: opacity 13s;
+  transition: opacity 0.2s;
   margin-top: 1rem;
+  margin-bottom: 2rem;
 
   &.hol-buttons-toggled {
-    opacity: 1;
     visibility: visible;
-    transition-delay: 0s;
-    transition: opacity 15s;
-    transition: visibility 15s;
+    animation-fill-mode: forwards;
+    animation-delay: 0.5s;
+    animation-name: opacity;
+    animation-duration: 0.2s;
+    transition-delay: opacity 0.3s;
   }
+}
+
+@keyframes opacity {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
 .higher-button {

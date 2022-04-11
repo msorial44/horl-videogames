@@ -17,7 +17,10 @@ function GameCard(props: any) {
         setPos(props.cardPos);
         if (props.cardPos === 2) {
             setRefresh(true);
-            setShowHOL(true);
+            setTimeout(() => {
+                setShowHOL(true);
+            }, 1000);
+            
         }
     }
 
@@ -43,7 +46,7 @@ function GameCard(props: any) {
                 }
                 props.scoreCallback(res.data.score);
             });
-        }, 500);
+        }, 750);
     }
 
     if(refresh && props.cardPos !== 2) {
