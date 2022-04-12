@@ -89,15 +89,16 @@
 
 .meta-score {
   opacity: 0;
-  visibility: collapse;
+  display: none;
+  overflow: hidden;
   font-size: 3.5rem;
   font-weight: bold;
   transition: opacity 0.3s;
-  transition-delay: visibility 0.6s;
+  transition-delay: display 0.6s;
 
   &.meta-score-toggled {
     opacity: 1;
-    visibility: visible;
+    display: block;
   }
 }
 
@@ -110,13 +111,13 @@
 .hol-buttons {
   overflow: hidden;
   opacity: 0;
-  visibility: collapse;
+  display: none;
   transition: opacity 0.2s;
   margin-top: 1rem;
   margin-bottom: 2rem;
 
   &.hol-buttons-toggled {
-    visibility: visible;
+    display: block;
     animation-fill-mode: forwards;
     animation-delay: 0.5s;
     animation-name: opacity;
