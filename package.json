@@ -8,7 +8,6 @@
         "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
     },
     "dependencies": {
-        "animate.css": "^4.1.1",
         "axios": "^0.26.1",
         "body-parser": "^1.18.3",
         "cheerio": "^1.0.0-rc.10",

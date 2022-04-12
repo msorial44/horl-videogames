@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import 'animate.css';
 import GameCard from './GameCard';
 import './App.scss';
 
