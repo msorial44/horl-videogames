@@ -1,5 +1,5 @@
-import { Button, Input } from 'antd';
-import React, { Component, useState } from 'react';
+import { Button } from 'antd';
+import React, { useState } from 'react';
 import axios from 'axios';
 import './App.scss';
 

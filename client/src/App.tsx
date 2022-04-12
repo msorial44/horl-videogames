@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import 'animate.css';
 import GameCard from './GameCard';
-import logo from './logo.svg';
-import FlipMove from 'react-flip-move';
 import './App.scss';
 
 
