@@ -51,7 +51,7 @@ function GameCard(props: any) {
 
     if(refresh && props.cardPos !== 2) {
         setRefresh(false);
-        axios.get('/api/getGame').then((res) => {
+        axios.get('/server/api/getGame').then((res) => {
             console.log(res.data);
             props.refreshCallback();
             setName(res.data.name);
