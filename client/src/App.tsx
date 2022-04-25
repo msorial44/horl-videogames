@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import GameCard from './GameCard';
+import { useCookies } from 'react-cookie';
 import './App.scss';
 
 
@@ -19,7 +20,8 @@ function App() {
   const [score3, setScore3] = useState(0);
 
   const [score, setScore] = useState(0);
-
+  const [cookies, setCookie] = useCookies(['highscore']);
+  const [highScore, setHighScore] = useState(cookies.highscore);
 
   function posCallback1(num: number) {
       setCard1Pos(num);
@@ -100,11 +102,16 @@ function App() {
 
   function checkGuess(guess: string) {
     if (guess === "higher") {
-      
       if (card1Pos === 1) {
         if ( score1 >= score3 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -113,8 +120,14 @@ function App() {
       }
       if (card2Pos === 1) {
         if ( score2 >= score1 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -123,8 +136,14 @@ function App() {
       }
       if (card3Pos === 1) {
         if ( score3 >= score2 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -135,8 +154,14 @@ function App() {
     if (guess === "lower") {
       if (card1Pos === 1) {
         if ( score1 <= score3 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -145,8 +170,14 @@ function App() {
       }
       if (card2Pos === 1) {
         if ( score2 <= score1 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -155,8 +186,14 @@ function App() {
       }
       if (card3Pos === 1) {
         if ( score3 <= score2 ) {
+          if ((score + 1) > highScore) {
+            setHighScore(score + 1);
+          }
           setScore(score + 1);
         } else {
+          if (score > highScore) {
+            setHighScore(score);
+          }
           setScore(0);
           setRefresh1(true);
           setRefresh2(true);
@@ -164,6 +201,7 @@ function App() {
         }
       }
     }
+    setCookie('highscore', highScore);
   }
 
 
@@ -172,7 +210,8 @@ function App() {
       <div className='card-container'>
           <GameCard refresh={refresh1} refreshCallback={refreshCard1} cardPos={card1Pos} cardCallback={posCallback1} scoreCallback={scoreCallback1} guessCallback={checkGuess}/>
           <div className='score-container'>
-            Score: {score}
+            <div>Score: {score} </div>
+            <div>High Score: {highScore}</div>
           </div>
           <div className='score-divider'></div>
           <GameCard refresh={refresh2} refreshCallback={refreshCard2} cardPos={card2Pos} cardCallback={posCallback2} scoreCallback={scoreCallback2} guessCallback={checkGuess}/>
