@@ -23,6 +23,10 @@ function App() {
   const [cookies, setCookie] = useCookies(['highscore']);
   const [highScore, setHighScore] = useState(cookies.highscore);
 
+  if (highScore !== cookies.highscore) {
+    setCookie('highscore', highScore, { path: '/', sameSite: 'strict' });
+  }
+
   function posCallback1(num: number) {
       setCard1Pos(num);
       if (num === 0) {
@@ -201,7 +205,7 @@ function App() {
         }
       }
     }
-    setCookie('highscore', highScore);
+    setCookie('highscore', highScore, { path: '/', sameSite: 'strict' });
   }
 
 

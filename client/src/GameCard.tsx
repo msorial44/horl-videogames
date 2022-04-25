@@ -31,7 +31,8 @@ function GameCard(props: any) {
     if(refresh && props.cardPos === 2) {
         setTimeout(() => {
             setRefresh(false);
-            axios.get('/server/api/getGame').then((res) => {
+            //axios.get('/server/api/getGame').then((res) => { //digital ocean server
+            axios.get('/api/getGame').then((res) => { //local server
                 console.log(res.data);
                 props.refreshCallback();
                 setName(res.data.name);
@@ -51,7 +52,8 @@ function GameCard(props: any) {
 
     if(refresh && props.cardPos !== 2) {
         setRefresh(false);
-        axios.get('/server/api/getGame').then((res) => {
+        //axios.get('/server/api/getGame').then((res) => { //digital ocean server
+        axios.get('/api/getGame').then((res) => { //local server
             console.log(res.data);
             props.refreshCallback();
             setName(res.data.name);
