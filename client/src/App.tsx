@@ -23,9 +23,14 @@ function App() {
   const [cookies, setCookie] = useCookies(['highscore']);
   const [highScore, setHighScore] = useState(cookies.highscore);
 
+  if (cookies.highscore === undefined) {
+    setCookie('highscore', 0, { path: '/', sameSite: 'strict' });
+  }
+
   if (highScore !== cookies.highscore) {
     setCookie('highscore', highScore, { path: '/', sameSite: 'strict' });
   }
+
 
   function posCallback1(num: number) {
       setCard1Pos(num);
