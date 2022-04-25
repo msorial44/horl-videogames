@@ -23,8 +23,10 @@ function App() {
   const [cookies, setCookie] = useCookies(['highscore']);
   const [highScore, setHighScore] = useState(cookies.highscore);
 
-  if (cookies.highscore === undefined) {
+  if (!cookies.highscore) {
     setCookie('highscore', 0, { path: '/', sameSite: 'strict' });
+    setHighScore(0);
+    window.location.reload();
   }
 
   if (highScore !== cookies.highscore) {
