@@ -19,7 +19,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 145,Animal Crossing: New Horizons,Switch,"March 20, 2020",90,5.6,https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Animal_Crossing_New_Horizons.jpg/220px-Animal_Crossing_New_Horizons.jpg
 261,Animal Crossing: New Leaf,3DS,"June 9, 2013",88,8.7,https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AnimalCrossingNewLeafNABoxart.jpg/220px-AnimalCrossingNewLeafNABoxart.jpg
 472,Anno 2070,PC,"November 17, 2011",83,7.1,https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Anno2070EuropeanBoxArtPC.jpg/220px-Anno2070EuropeanBoxArtPC.jpg
-836,Anthem,XboxOne,"February 22, 2019",65,4.0,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Anthem%2C_Inc._Logo.svg/220px-Anthem%2C_Inc._Logo.svg.png
+836,Anthem,XboxOne,"February 22, 2019",65,4.0,https://upload.wikimedia.org/wikipedia/en/4/49/Cover_Art_of_Anthem.jpg
 527,Antichamber,PC,"January 31, 2013",82,8.3,https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Antichamber_logo.png/220px-Antichamber_logo.png
 201,Apex Legends,PlayStation4,"February 4, 2019",89,6.9,https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Apex_legends_cover.jpg/220px-Apex_legends_cover.jpg
 760,Arma 3,PC,"March 5, 2013",74,7.6,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ArmA_3_Logo_%28Black_Transparent%29_%28SVG%29.svg/220px-ArmA_3_Logo_%28Black_Transparent%29_%28SVG%29.svg.png
@@ -106,7 +106,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 405,Castlevania: Lords of Shadow,PlayStation3,"October 5, 2010",85,8.1,https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Castlevania_Lords_of_Shadow.png/220px-Castlevania_Lords_of_Shadow.png
 572,Castlevania: Lords of Shadow - Ultimate Edition,PC,"August 27, 2013",81,7.5,https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Castlevania_Lords_of_Shadow.png/220px-Castlevania_Lords_of_Shadow.png
 845,Castlevania: Lords of Shadow 2,PlayStation3,"February 25, 2014",63,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Castlevania_Lords_of_Shadow_2_boxart.jpg/220px-Castlevania_Lords_of_Shadow_2_boxart.jpg
-650,Catherine,PlayStation3,"July 26, 2011",79,8.3,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Carlo_Crivelli_014.jpg/220px-Carlo_Crivelli_014.jpg
+650,Catherine,PlayStation3,"July 26, 2011",79,8.3,https://upload.wikimedia.org/wikipedia/en/2/20/Catherine_Cover_Art.png
 83,Celeste,Switch,"January 25, 2018",92,8.6,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Celeste_box_art_final.png/440px-Celeste_box_art_final.png
 548,Child of Light,PlayStation4,"April 29, 2014",82,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Child_of_Light_art.jpg/220px-Child_of_Light_art.jpg
 662,Chivalry: Medieval Warfare,PC,"October 16, 2012",79,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Chivalry_Medieval_Warfare_cover_art.jpg/220px-Chivalry_Medieval_Warfare_cover_art.jpg
@@ -173,7 +173,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 157,Deus Ex,PC,"June 23, 2000",90,9.2,https://upload.wikimedia.org/wikipedia/commons/1/1b/Deus_Ex_Universe_logo.png
 167,Deus Ex: Human Revolution,PC,"August 23, 2011",90,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Deus_Ex_Human_Revolution_cover.jpg/220px-Deus_Ex_Human_Revolution_cover.jpg
 437,Deus Ex: Mankind Divided,PlayStation4,"August 23, 2016",84,7.6,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Deus_Ex%2C_Mankind_Divided_Box_Art.jpeg/220px-Deus_Ex%2C_Mankind_Divided_Box_Art.jpeg
-41,Devil May Cry,PlayStation2,"October 16, 2001",94,8.6,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Devil-may-cry.png/250px-Devil-may-cry.png
+41,Devil May Cry,PlayStation2,"October 16, 2001",94,8.6,https://upload.wikimedia.org/wikipedia/en/1/1e/DMC1FrontCover.jpg
 288,Devil May Cry 3: Special Edition,PlayStation2,"January 24, 2006",87,9.1,https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Devil_May_Cry_3_boxshot.jpg/220px-Devil_May_Cry_3_boxshot.jpg
 444,Devil May Cry 4,PlayStation3,"February 5, 2008",84,8.4,https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/DMC4COVER.jpg/220px-DMC4COVER.jpg
 189,Devil May Cry 5,PC,"March 7, 2019",89,8.6,https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Devil_May_Cry_5.jpg/220px-Devil_May_Cry_5.jpg
@@ -336,7 +336,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 640,GrimGrimoire,PlayStation2,"June 26, 2007",79,9.7,https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Grim_Grimoire_Boxart.jpg/220px-Grim_Grimoire_Boxart.jpg
 171,Guild Wars 2,PC,"August 28, 2012",90,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Gw2-boxfront.png/220px-Gw2-boxfront.png
 586,Guild Wars 2: Heart of Thorns,PC,"October 23, 2015",81,7.3,https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Guild_Wars_2_Heart_of_Thorns_cover.png/220px-Guild_Wars_2_Heart_of_Thorns_cover.png
-55,Hades,Switch,"September 17, 2020",93,9.0,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Detail_of_Pluto-Serapis%2C_Statue_group_of_Persephone_%28as_Isis%29_and_Pluto_%28as_Serapis%29%2C_from_the_Sanctuary_of_the_Egyptian_Gods_at_Gortyna%2C_mid-2nd_century_AD%2C_Heraklion_Archaeological_Museum_%2830305313721%29.jpg/220px-thumbnail.jpg
+55,Hades,Switch,"September 17, 2020",93,9.0,https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg
 21,Half-Life,PC,"November 19, 1998",96,9.1,https://upload.wikimedia.org/wikipedia/en/f/fa/Half-Life_Cover_Art.jpg
 11,Half-Life 2,PC,"November 16, 2004",96,9.2,https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Half-Life_2_cover.jpg/220px-Half-Life_2_cover.jpg
 287,Half-Life 2: Episode One,PC,"June 1, 2006",87,8.7,https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Half-Life_2_-_Episode_One.jpg/220px-Half-Life_2_-_Episode_One.jpg
@@ -433,7 +433,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 354,Luigi's Mansion 3,Switch,"October 31, 2019",86,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Luigi%27s_Mansion_3.jpg/220px-Luigi%27s_Mansion_3.jpg
 356,Luigi's Mansion: Dark Moon,3DS,"March 24, 2013",86,8.4,https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Luigi%27s_Mansion_Dark_Moon_%28Boxart%29.png/220px-Luigi%27s_Mansion_Dark_Moon_%28Boxart%29.png
 392,Machinarium,PC,"October 16, 2009",85,8.7,https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Machinarium-cover_art.png/220px-Machinarium-cover_art.png
-767,Mad Max,PC,"September 1, 2015",73,7.8,https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg
+767,Mad Max,PC,"September 1, 2015",73,7.8,https://upload.wikimedia.org/wikipedia/en/3/3e/Mad_Max_cover_art.png
 718,Madden NFL 20,PlayStation4,"July 30, 2019",76,1.4,https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Madden20CoverArt.png/220px-Madden20CoverArt.png
 808,Madden NFL 21,XboxOne,"August 25, 2020",69,0.5,https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Madden21cover.jpeg/220px-Madden21cover.jpeg
 823,Madden NFL 22,PlayStation5,"August 17, 2021",68,0.6,https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Madden_22_cover.jpg/220px-Madden_22_cover.jpg
@@ -508,7 +508,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 603,NBA 2K18,PlayStation4,"September 15, 2017",80,1.8,https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBA_2K18_cover_art.jpg/220px-NBA_2K18_cover_art.jpg
 685,NBA 2K20,PlayStation4,"September 6, 2019",78,1.4,https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/NBA_2K20_cover.png/220px-NBA_2K20_cover.png
 816,NBA 2K21,PlayStation4,"September 4, 2020",68,0.8,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/NBA_2K21_-_Damian_Lilliard_cover_art.jpg/220px-NBA_2K21_-_Damian_Lilliard_cover_art.jpg
-832,Need for Speed,PlayStation4,"November 3, 2015",66,6.9,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Need_for_Speed_2020_logo.svg/250px-Need_for_Speed_2020_logo.svg.png
+832,Need for Speed,PlayStation4,"November 3, 2015",66,6.9,https://upload.wikimedia.org/wikipedia/en/a/a9/Need_for_Speed_2015.jpg
 783,Need for Speed Heat,PlayStation4,"November 8, 2019",72,6.1,https://upload.wikimedia.org/wikipedia/en/7/7f/Cover_Art_of_Need_for_Speed_Heat.png
 853,Need for Speed Payback,PlayStation4,"November 7, 2017",61,4.3,https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg/220px-Need_for_Speed_Payback_standard_edition_cover_art.jpg
 438,Need for Speed: Most Wanted - A Criterion Game,PlayStation3,"October 30, 2012",84,5.9,https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Nfs-most-wanted-2012-gen-packart.jpg/220px-Nfs-most-wanted-2012-gen-packart.jpg
@@ -563,19 +563,19 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 309,Pokemon Black Version,DS,"March 6, 2011",87,7.8,https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Pokemon_Black_Box_Artwork.jpg/220px-Pokemon_Black_Box_Artwork.jpg
 599,Pokemon Black Version 2,DS,"October 7, 2012",80,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Pokemon_White_2.png/220px-Pokemon_White_2.png
 769,Pokemon Brilliant Diamond,Switch,"November 19, 2021",73,5.4,https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Pokemon_Brilliant_Diamond_Shining_Pearl.png/220px-Pokemon_Brilliant_Diamond_Shining_Pearl.png
-406,Pokemon Diamond Version,DS,"April 22, 2007",85,8.3,https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/PokemonDiamondPearlBoxArt.jpg/220px-PokemonDiamondPearlBoxArt.jpg
+406,Pokemon Diamond Version,DS,"April 22, 2007",85,8.3,https://archives.bulbagarden.net/media/upload/thumb/6/69/Diamond_EN_boxart.jpg/500px-Diamond_EN_boxart.jpg
 731,Pokemon Emerald Version,GameBoyAdvance,"April 30, 2005",76,8.9,https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/PokemonEmeraldBox.jpg/220px-PokemonEmeraldBox.jpg
 306,Pokemon HeartGold Version,DS,"March 14, 2010",87,9.1,https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/PokemonHGSSBox.jpg/220px-PokemonHGSSBox.jpg
 513,Pokemon Legends: Arceus,Switch,"January 28, 2022",83,8.3,https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Pokemon_Legends_Arceus_cover.jpg/220px-Pokemon_Legends_Arceus_cover.jpg
 297,Pokemon Moon,3DS,"November 18, 2016",87,7.6,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Pokemon_Sun_Boxart.jpg/220px-Pokemon_Sun_Boxart.jpg
 508,Pokemon Omega Ruby,3DS,"November 21, 2014",83,7.5,https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/AlphaSapphire.jpg/220px-AlphaSapphire.jpg
 517,Pokemon Platinum Version,DS,"March 22, 2009",83,8.9,https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Pokemon_Platinum.png/220px-Pokemon_Platinum.png
-613,Pokemon Shield,Switch,"November 15, 2019",80,4.6,https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg/220px-Pok%C3%A9mon_Sword_and_Shield.jpg
+613,Pokemon Shield,Switch,"November 15, 2019",80,4.6,https://archives.bulbagarden.net/media/upload/thumb/8/8d/Shield_EN_boxart.png/500px-Shield_EN_boxart.png
 290,Pokemon SoulSilver Version,DS,"March 14, 2010",87,9.2,https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/PokemonHGSSBox.jpg/220px-PokemonHGSSBox.jpg
 284,Pokemon Sun,3DS,"November 18, 2016",87,7.6,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Pokemon_Sun_Boxart.jpg/220px-Pokemon_Sun_Boxart.jpg
-622,Pokemon Sword,Switch,"November 15, 2019",80,4.6,https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg/220px-Pok%C3%A9mon_Sword_and_Shield.jpg
-454,Pokemon Ultra Moon,3DS,"November 17, 2017",84,7.6,https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Pokemon_Ultra_Sun_and_Ultra_Moon_cover_art.jpg/220px-Pokemon_Ultra_Sun_and_Ultra_Moon_cover_art.jpg
-426,Pokemon Ultra Sun,3DS,"November 17, 2017",84,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Pokemon_Ultra_Sun_and_Ultra_Moon_cover_art.jpg/220px-Pokemon_Ultra_Sun_and_Ultra_Moon_cover_art.jpg
+622,Pokemon Sword,Switch,"November 15, 2019",80,4.6,https://archives.bulbagarden.net/media/upload/thumb/4/47/Sword_EN_boxart.png/500px-Sword_EN_boxart.png
+454,Pokemon Ultra Moon,3DS,"November 17, 2017",84,7.6,https://archives.bulbagarden.net/media/upload/thumb/8/86/Ultra_Moon_EN_boxart.png/500px-Ultra_Moon_EN_boxart.png
+426,Pokemon Ultra Sun,3DS,"November 17, 2017",84,7.7,https://archives.bulbagarden.net/media/upload/thumb/d/de/Ultra_Sun_EN_boxart.png/500px-Ultra_Sun_EN_boxart.png
 276,Pokemon White Version,DS,"March 6, 2011",87,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Pokemon_White_2.png/220px-Pokemon_White_2.png
 277,Pokemon X,3DS,"October 12, 2013",87,7.5,https://upload.wikimedia.org/wikipedia/en/thumb/8/85/PokemonXBoxart.jpg/220px-PokemonXBoxart.jpg
 241,Pokemon Y,3DS,"October 12, 2013",88,7.5,https://upload.wikimedia.org/wikipedia/en/thumb/8/85/PokemonXBoxart.jpg/220px-PokemonXBoxart.jpg
@@ -585,7 +585,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 36,Portal 2,PC,"April 18, 2011",95,9.1,https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Portal2cover.jpg/220px-Portal2cover.jpg
 868,Postal 2,PC,"April 14, 2003",50,8.1,https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Postal_2_cover.png/220px-Postal_2_cover.png
 556,Prey,PC,"May 5, 2017",82,8.2,https://upload.wikimedia.org/wikipedia/en/2/29/Prey_cover_art.jpg
-215,Prince of Persia: The Sands of Time,PC,"December 2, 2003",89,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Prince_of_Persia_poster.jpg/220px-Prince_of_Persia_poster.jpg
+215,Prince of Persia: The Sands of Time,PC,"December 2, 2003",89,8.5,https://upload.wikimedia.org/wikipedia/en/8/86/Sands_of_time_cover.jpg
 515,Prince of Persia: Warrior Within,PC,"November 30, 2004",83,8.6,https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Prince_of_Persia_-_Warrior_Within_Coverart.png/220px-Prince_of_Persia_-_Warrior_Within_Coverart.png
 308,Pro Evolution Soccer 2016,PlayStation4,"September 15, 2015",87,7.2,https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Pro_Evolution_Soccer_2016_cover_art.jpg/220px-Pro_Evolution_Soccer_2016_cover_art.jpg
 390,Pro Evolution Soccer 2017,PlayStation4,"September 13, 2016",85,7.3,https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Pro_Evolution_2017_Cover_Art.png/220px-Pro_Evolution_2017_Cover_Art.png
@@ -615,7 +615,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 333,Resident Evil 5,PC,"September 15, 2009",86,7.2,https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Resident_evil_retribution_poster.jpg/220px-Resident_evil_retribution_poster.jpg
 747,Resident Evil 6,PlayStation3,"October 2, 2012",74,5.7,https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Resident_Evil_The_Final_Chapter_poster.jpg/220px-Resident_Evil_The_Final_Chapter_poster.jpg
 349,Resident Evil 7: biohazard,PlayStation4,"January 24, 2017",86,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Resident_Evil_7_cover_art.jpg/220px-Resident_Evil_7_cover_art.jpg
-484,Resident Evil HD Remaster,PlayStation4,"January 20, 2015",83,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Resident_Evil_2002_cover.jpg/220px-Resident_Evil_2002_cover.jpg
+484,Resident Evil HD Remaster,PlayStation4,"January 20, 2015",83,8.5,https://m.media-amazon.com/images/M/MV5BNDAzZTJjMjItMjE2Ni00ZjI5LTgzMWItZmJkNjllNDA3MGQ0XkEyXkFqcGdeQXVyNTM0MjE5NTc@._V1_.jpg
 446,Resident Evil Village,PlayStation5,"May 7, 2021",84,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Resident_Evil_Village.png/220px-Resident_Evil_Village.png
 524,Resident Evil: Revelations,3DS,"February 7, 2012",82,8.5,https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Resident_evil_rev._2012_Capcom.png/220px-Resident_evil_rev._2012_Capcom.png
 746,Resident Evil: Revelations 2,PlayStation4,"March 17, 2015",75,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/7/74/ResidentEvilRevelations2.jpg/220px-ResidentEvilRevelations2.jpg
@@ -625,7 +625,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 450,Resogun,PlayStation4,"November 15, 2013",84,7.7,https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Resogun_logo.jpg/220px-Resogun_logo.jpg
 244,Return to Castle Wolfenstein,PC,"November 19, 2001",88,8.8,https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Return_to_Castle_Wolfenstein_Coverart.jpg/220px-Return_to_Castle_Wolfenstein_Coverart.jpg
 361,Returnal,PlayStation5,"April 30, 2021",86,7.3,https://upload.wikimedia.org/wikipedia/en/9/91/Returnal_cover_art.jpg
-460,Rift (2011),PC,"March 1, 2011",84,7.3,https://upload.wikimedia.org/wikipedia/en/4/4e/Rift_cover.jpg
+460,Rift,PC,"March 1, 2011",84,7.3,https://upload.wikimedia.org/wikipedia/en/4/4e/Rift_cover.jpg
 330,Rise of the Tomb Raider,PC,"January 28, 2016",86,7.9,https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rise_of_the_Tomb_Raider.jpg/220px-Rise_of_the_Tomb_Raider.jpg
 227,Rise of the Tomb Raider: 20 Year Celebration,PlayStation4,"October 11, 2016",88,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rise_of_the_Tomb_Raider.jpg/220px-Rise_of_the_Tomb_Raider.jpg
 707,Risen,PC,"October 2, 2009",77,8.1,https://upload.wikimedia.org/wikipedia/en/e/e0/Risen_%28video_game%29_boxart.jpg
@@ -633,7 +633,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 838,Risen 3: Titan Lords,PC,"August 12, 2014",65,5.8,https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Risen_3%2C_Titan_Lords_box_art.jpg/220px-Risen_3%2C_Titan_Lords_box_art.jpg
 648,Rochard,PlayStation3,"September 27, 2011",79,9.6,https://upload.wikimedia.org/wikipedia/commons/e/ea/Rochard_Cover.PNG
 364,Rocket League,PC,"July 5, 2015",86,7.7,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocket_League_coverart.jpg/220px-Rocket_League_coverart.jpg
-404,Rogue Legacy,PC,"June 27, 2013",85,7.9,https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Rogue_Legacy_logo.png/220px-Rogue_Legacy_logo.png
+404,Rogue Legacy,PC,"June 27, 2013",85,7.9,https://upload.wikimedia.org/wikipedia/en/e/ef/Rogue_Legacy_cover_art.jpg
 89,Rome: Total War,PC,"September 22, 2004",92,9.0,https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Romebox.jpg/220px-Romebox.jpg
 852,Ryse: Son of Rome,PC,"October 10, 2014",61,6.8,https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ryse_box_art.jpg/220px-Ryse_box_art.jpg
 632,S.T.A.L.K.E.R.: Call of Pripyat,PC,"February 2, 2010",80,8.6,https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Stalker_Call_of_Pripyat_cover.jpg/220px-Stalker_Call_of_Pripyat_cover.jpg
@@ -675,7 +675,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 860,Sonic Forces,PlayStation4,"November 7, 2017",57,6.5,https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/SonicForcesArtwork.jpg/220px-SonicForcesArtwork.jpg
 698,Sonic Generations,Xbox360,"November 1, 2011",77,8.2,https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/SonicGenerations.jpg/220px-SonicGenerations.jpg
 347,Sonic Mania,PlayStation4,"August 15, 2017",86,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sonic_Mania_%28artwork%29.jpg/220px-Sonic_Mania_%28artwork%29.jpg
-869,Sonic the Hedgehog,Xbox360,"November 14, 2006",46,5.1,https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sonic_the_Hedgehog_film_poster.jpg/220px-Sonic_the_Hedgehog_film_poster.jpg
+869,Sonic the Hedgehog,Xbox360,"November 14, 2006",46,5.1,https://upload.wikimedia.org/wikipedia/en/d/d1/Sonic_the_Hedgehog_Next-Gen_Box_Art.JPG
 854,Sonic Unleashed,Xbox360,"November 20, 2008",60,8.4,https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sonic_unleashed_boxart.jpg/220px-Sonic_unleashed_boxart.jpg
 846,Sonic: Lost World,WiiU,"October 29, 2013",63,7.2,https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Sonic_Lost_World_Wii_U_Box_art.jpg/220px-Sonic_Lost_World_Wii_U_Box_art.jpg
 639,South Park: The Fractured But Whole,PlayStation4,"October 17, 2017",79,7.8,https://upload.wikimedia.org/wikipedia/en/thumb/4/48/South_Park_The_Fractured_but_Whole_cover_art.jpg/220px-South_Park_The_Fractured_but_Whole_cover_art.jpg
@@ -717,8 +717,8 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 94,Super Mario Sunshine,GameCube,"August 25, 2002",92,8.4,https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_mario_sunshine.jpg/220px-Super_mario_sunshine.jpg
 396,Super Paper Mario,Wii,"April 9, 2007",85,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Super_Paper_Mario_cover.jpg/220px-Super_Paper_Mario_cover.jpg
 52,Super Smash Bros. Brawl,Wii,"March 9, 2008",93,8.8,https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/SSBB_Cover.jpg/220px-SSBB_Cover.jpg
-388,Super Smash Bros. for Nintendo 3DS,3DS,"October 3, 2014",85,8.5,https://upload.wikimedia.org/wikipedia/en/b/b1/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U_box_art.jpeg
-100,Super Smash Bros. for Wii U,WiiU,"November 21, 2014",92,8.9,https://upload.wikimedia.org/wikipedia/en/b/b1/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U_box_art.jpeg
+388,Super Smash Bros. for Nintendo 3DS,3DS,"October 3, 2014",85,8.5,https://www.ubuy.ae/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvOTFjdEhpS0FNNUwuX0FDX1NMMTUwMF8uanBn.jpg
+100,Super Smash Bros. for Wii U,WiiU,"November 21, 2014",92,8.9,https://images-na.ssl-images-amazon.com/images/I/61f4tYoL5rL.jpg
 88,Super Smash Bros. Melee,GameCube,"December 2, 2001",92,9.1,https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Super_Smash_Bros_Melee_box_art.png/220px-Super_Smash_Bros_Melee_box_art.png
 72,Super Smash Bros. Ultimate,Switch,"December 7, 2018",93,8.6,https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Super_Smash_Bros._Ultimate.jpg/220px-Super_Smash_Bros._Ultimate.jpg
 525,SUPERHOT,PC,"February 25, 2016",82,7.6,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Superhot_logo.svg/220px-Superhot_logo.svg.png
@@ -780,7 +780,7 @@ Unnamed: 0,name,platform,r-date,score,user score,image-link
 552,The Vanishing of Ethan Carter,PC,"September 25, 2014",82,8.0,https://upload.wikimedia.org/wikipedia/en/thumb/9/98/The_Vanishing_of_Ethan_Carter.jpg/220px-The_Vanishing_of_Ethan_Carter.jpg
 554,The Walking Dead: Episode 1 - A New Day,PC,"April 24, 2012",82,8.3,https://upload.wikimedia.org/wikipedia/en/thumb/3/31/The_Walking_Dead%2C_Season_One_cover.jpeg/220px-The_Walking_Dead%2C_Season_One_cover.jpeg
 670,The Walking Dead: Season Two Episode 1 - All That Remains,PC,"December 17, 2013",78,8.4,https://upload.wikimedia.org/wikipedia/en/thumb/3/31/The_Walking_Dead%2C_Season_One_cover.jpeg/220px-The_Walking_Dead%2C_Season_One_cover.jpeg
-570,The Witcher,PC,"October 30, 2007",81,8.6,https://upload.wikimedia.org/wikipedia/en/thumb/2/23/The_Witcher_Title_Card.png/250px-The_Witcher_Title_Card.png
+570,The Witcher,PC,"October 30, 2007",81,8.6,https://upload.wikimedia.org/wikipedia/en/b/b0/The_Witcher_EU_box.jpg
 246,The Witcher 2: Assassins of Kings,Xbox360,"April 17, 2012",88,8.3,https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Witcher_2_cover.jpg/220px-Witcher_2_cover.jpg
 51,The Witcher 3: Wild Hunt,PC,"May 18, 2015",93,9.0,https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg
 107,The Witcher 3: Wild Hunt - Blood and Wine,PC,"May 30, 2016",92,9.1,https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Blood_and_wine_art.jpg/220px-Blood_and_wine_art.jpg
