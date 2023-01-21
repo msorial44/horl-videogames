@@ -1,0 +1,11 @@
+parameters: {}
+environment: {}
+packages:
+    - name: highorlow
+      functions:
+        - name: highorlow
+          runtime: 'python:default'
+          web: true
+          websecure: false
+          
+         
