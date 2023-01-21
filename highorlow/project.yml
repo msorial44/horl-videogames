@@ -6,6 +6,6 @@ packages:
         - name: highorlow
           runtime: 'python:default'
           web: true
-          websecure: false
+
           
          
