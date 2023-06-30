@@ -2,7 +2,7 @@
 
 A remix of [The Higher Lower Game](http://www.higherlowergame.com/) but instead of google search data, this app used metacritic scores for a variety of videogames.
 
-Live Deployment: https://higherorlower.games
+[Live Deployment](my-app-bg2ez.ondigitalocean.app)
 
 # Getting Started with Create React App
 
